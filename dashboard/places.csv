@@ -1,0 +1,1233 @@
+,Ville,variable,value
+0,AP-HP,Chirurgie maxillo-faciale,4
+1,STRASBOURG,Chirurgie maxillo-faciale,1
+2,NANCY,Chirurgie maxillo-faciale,1
+3,BESANCON,Chirurgie maxillo-faciale,1
+4,DIJON,Chirurgie maxillo-faciale,1
+5,REIMS,Chirurgie maxillo-faciale,0
+6,CAEN,Chirurgie maxillo-faciale,1
+7,ROUEN,Chirurgie maxillo-faciale,1
+8,LILLE,Chirurgie maxillo-faciale,2
+9,AMIENS,Chirurgie maxillo-faciale,2
+10,CLERMONT-FERRAND,Chirurgie maxillo-faciale,1
+11,GRENOBLE,Chirurgie maxillo-faciale,1
+12,HCL,Chirurgie maxillo-faciale,1
+13,SAINT ETIENNE,Chirurgie maxillo-faciale,1
+14,BREST,Chirurgie maxillo-faciale,0
+15,RENNES,Chirurgie maxillo-faciale,0
+16,ANGERS,Chirurgie maxillo-faciale,1
+17,NANTES,Chirurgie maxillo-faciale,1
+18,TOURS,Chirurgie maxillo-faciale,1
+19,POITIERS,Chirurgie maxillo-faciale,0
+20,MONTPELLIER,Chirurgie maxillo-faciale,1
+21,AP-HM,Chirurgie maxillo-faciale,1
+22,NICE,Chirurgie maxillo-faciale,1
+23,BORDEAUX,Chirurgie maxillo-faciale,1
+24, LA REUNION,Chirurgie maxillo-faciale,0
+25,TOULOUSE,Chirurgie maxillo-faciale,1
+26,LIMOGES,Chirurgie maxillo-faciale,0
+27,MARTINIQUE/POINTE A PITRE,Chirurgie maxillo-faciale,0
+28,AP-HP,Chirurgie orale,3
+29,STRASBOURG,Chirurgie orale,1
+30,NANCY,Chirurgie orale,1
+31,BESANCON,Chirurgie orale,1
+32,DIJON,Chirurgie orale,1
+33,REIMS,Chirurgie orale,0
+34,CAEN,Chirurgie orale,1
+35,ROUEN,Chirurgie orale,1
+36,LILLE,Chirurgie orale,1
+37,AMIENS,Chirurgie orale,0
+38,CLERMONT-FERRAND,Chirurgie orale,1
+39,GRENOBLE,Chirurgie orale,0
+40,HCL,Chirurgie orale,0
+41,SAINT ETIENNE,Chirurgie orale,0
+42,BREST,Chirurgie orale,0
+43,RENNES,Chirurgie orale,0
+44,ANGERS,Chirurgie orale,0
+45,NANTES,Chirurgie orale,1
+46,TOURS,Chirurgie orale,0
+47,POITIERS,Chirurgie orale,0
+48,MONTPELLIER,Chirurgie orale,1
+49,AP-HM,Chirurgie orale,0
+50,NICE,Chirurgie orale,0
+51,BORDEAUX,Chirurgie orale,0
+52, LA REUNION,Chirurgie orale,0
+53,TOULOUSE,Chirurgie orale,1
+54,LIMOGES,Chirurgie orale,0
+55,MARTINIQUE/POINTE A PITRE,Chirurgie orale,0
+56,AP-HP,Chirurgie orthopédique et traumatologique,19
+57,STRASBOURG,Chirurgie orthopédique et traumatologique,4
+58,NANCY,Chirurgie orthopédique et traumatologique,6
+59,BESANCON,Chirurgie orthopédique et traumatologique,4
+60,DIJON,Chirurgie orthopédique et traumatologique,3
+61,REIMS,Chirurgie orthopédique et traumatologique,3
+62,CAEN,Chirurgie orthopédique et traumatologique,4
+63,ROUEN,Chirurgie orthopédique et traumatologique,5
+64,LILLE,Chirurgie orthopédique et traumatologique,8
+65,AMIENS,Chirurgie orthopédique et traumatologique,3
+66,CLERMONT-FERRAND,Chirurgie orthopédique et traumatologique,3
+67,GRENOBLE,Chirurgie orthopédique et traumatologique,4
+68,HCL,Chirurgie orthopédique et traumatologique,6
+69,SAINT ETIENNE,Chirurgie orthopédique et traumatologique,2
+70,BREST,Chirurgie orthopédique et traumatologique,3
+71,RENNES,Chirurgie orthopédique et traumatologique,4
+72,ANGERS,Chirurgie orthopédique et traumatologique,3
+73,NANTES,Chirurgie orthopédique et traumatologique,3
+74,TOURS,Chirurgie orthopédique et traumatologique,6
+75,POITIERS,Chirurgie orthopédique et traumatologique,5
+76,MONTPELLIER,Chirurgie orthopédique et traumatologique,4
+77,AP-HM,Chirurgie orthopédique et traumatologique,3
+78,NICE,Chirurgie orthopédique et traumatologique,3
+79,BORDEAUX,Chirurgie orthopédique et traumatologique,5
+80, LA REUNION,Chirurgie orthopédique et traumatologique,2
+81,TOULOUSE,Chirurgie orthopédique et traumatologique,4
+82,LIMOGES,Chirurgie orthopédique et traumatologique,4
+83,MARTINIQUE/POINTE A PITRE,Chirurgie orthopédique et traumatologique,3
+84,AP-HP,Chirurgie pédiatrique,8
+85,STRASBOURG,Chirurgie pédiatrique,0
+86,NANCY,Chirurgie pédiatrique,1
+87,BESANCON,Chirurgie pédiatrique,0
+88,DIJON,Chirurgie pédiatrique,1
+89,REIMS,Chirurgie pédiatrique,1
+90,CAEN,Chirurgie pédiatrique,1
+91,ROUEN,Chirurgie pédiatrique,1
+92,LILLE,Chirurgie pédiatrique,2
+93,AMIENS,Chirurgie pédiatrique,1
+94,CLERMONT-FERRAND,Chirurgie pédiatrique,0
+95,GRENOBLE,Chirurgie pédiatrique,1
+96,HCL,Chirurgie pédiatrique,1
+97,SAINT ETIENNE,Chirurgie pédiatrique,1
+98,BREST,Chirurgie pédiatrique,0
+99,RENNES,Chirurgie pédiatrique,1
+100,ANGERS,Chirurgie pédiatrique,0
+101,NANTES,Chirurgie pédiatrique,1
+102,TOURS,Chirurgie pédiatrique,1
+103,POITIERS,Chirurgie pédiatrique,0
+104,MONTPELLIER,Chirurgie pédiatrique,1
+105,AP-HM,Chirurgie pédiatrique,1
+106,NICE,Chirurgie pédiatrique,1
+107,BORDEAUX,Chirurgie pédiatrique,2
+108, LA REUNION,Chirurgie pédiatrique,1
+109,TOULOUSE,Chirurgie pédiatrique,0
+110,LIMOGES,Chirurgie pédiatrique,0
+111,MARTINIQUE/POINTE A PITRE,Chirurgie pédiatrique,1
+112,AP-HP,"Chirurgie plastique, reconstructrice et esthétique",7
+113,STRASBOURG,"Chirurgie plastique, reconstructrice et esthétique",1
+114,NANCY,"Chirurgie plastique, reconstructrice et esthétique",1
+115,BESANCON,"Chirurgie plastique, reconstructrice et esthétique",1
+116,DIJON,"Chirurgie plastique, reconstructrice et esthétique",1
+117,REIMS,"Chirurgie plastique, reconstructrice et esthétique",0
+118,CAEN,"Chirurgie plastique, reconstructrice et esthétique",0
+119,ROUEN,"Chirurgie plastique, reconstructrice et esthétique",1
+120,LILLE,"Chirurgie plastique, reconstructrice et esthétique",2
+121,AMIENS,"Chirurgie plastique, reconstructrice et esthétique",1
+122,CLERMONT-FERRAND,"Chirurgie plastique, reconstructrice et esthétique",0
+123,GRENOBLE,"Chirurgie plastique, reconstructrice et esthétique",1
+124,HCL,"Chirurgie plastique, reconstructrice et esthétique",2
+125,SAINT ETIENNE,"Chirurgie plastique, reconstructrice et esthétique",0
+126,BREST,"Chirurgie plastique, reconstructrice et esthétique",1
+127,RENNES,"Chirurgie plastique, reconstructrice et esthétique",1
+128,ANGERS,"Chirurgie plastique, reconstructrice et esthétique",1
+129,NANTES,"Chirurgie plastique, reconstructrice et esthétique",1
+130,TOURS,"Chirurgie plastique, reconstructrice et esthétique",0
+131,POITIERS,"Chirurgie plastique, reconstructrice et esthétique",1
+132,MONTPELLIER,"Chirurgie plastique, reconstructrice et esthétique",1
+133,AP-HM,"Chirurgie plastique, reconstructrice et esthétique",1
+134,NICE,"Chirurgie plastique, reconstructrice et esthétique",1
+135,BORDEAUX,"Chirurgie plastique, reconstructrice et esthétique",1
+136, LA REUNION,"Chirurgie plastique, reconstructrice et esthétique",0
+137,TOULOUSE,"Chirurgie plastique, reconstructrice et esthétique",1
+138,LIMOGES,"Chirurgie plastique, reconstructrice et esthétique",0
+139,MARTINIQUE/POINTE A PITRE,"Chirurgie plastique, reconstructrice et esthétique",0
+140,AP-HP,Chirurgie thoracique et cardiovasculaire,3
+141,STRASBOURG,Chirurgie thoracique et cardiovasculaire,0
+142,NANCY,Chirurgie thoracique et cardiovasculaire,1
+143,BESANCON,Chirurgie thoracique et cardiovasculaire,1
+144,DIJON,Chirurgie thoracique et cardiovasculaire,2
+145,REIMS,Chirurgie thoracique et cardiovasculaire,1
+146,CAEN,Chirurgie thoracique et cardiovasculaire,0
+147,ROUEN,Chirurgie thoracique et cardiovasculaire,1
+148,LILLE,Chirurgie thoracique et cardiovasculaire,1
+149,AMIENS,Chirurgie thoracique et cardiovasculaire,1
+150,CLERMONT-FERRAND,Chirurgie thoracique et cardiovasculaire,1
+151,GRENOBLE,Chirurgie thoracique et cardiovasculaire,1
+152,HCL,Chirurgie thoracique et cardiovasculaire,1
+153,SAINT ETIENNE,Chirurgie thoracique et cardiovasculaire,0
+154,BREST,Chirurgie thoracique et cardiovasculaire,0
+155,RENNES,Chirurgie thoracique et cardiovasculaire,1
+156,ANGERS,Chirurgie thoracique et cardiovasculaire,0
+157,NANTES,Chirurgie thoracique et cardiovasculaire,1
+158,TOURS,Chirurgie thoracique et cardiovasculaire,2
+159,POITIERS,Chirurgie thoracique et cardiovasculaire,1
+160,MONTPELLIER,Chirurgie thoracique et cardiovasculaire,1
+161,AP-HM,Chirurgie thoracique et cardiovasculaire,0
+162,NICE,Chirurgie thoracique et cardiovasculaire,1
+163,BORDEAUX,Chirurgie thoracique et cardiovasculaire,1
+164, LA REUNION,Chirurgie thoracique et cardiovasculaire,1
+165,TOULOUSE,Chirurgie thoracique et cardiovasculaire,1
+166,LIMOGES,Chirurgie thoracique et cardiovasculaire,0
+167,MARTINIQUE/POINTE A PITRE,Chirurgie thoracique et cardiovasculaire,1
+168,AP-HP,Chirurgie vasculaire,3
+169,STRASBOURG,Chirurgie vasculaire,1
+170,NANCY,Chirurgie vasculaire,2
+171,BESANCON,Chirurgie vasculaire,1
+172,DIJON,Chirurgie vasculaire,1
+173,REIMS,Chirurgie vasculaire,1
+174,CAEN,Chirurgie vasculaire,0
+175,ROUEN,Chirurgie vasculaire,1
+176,LILLE,Chirurgie vasculaire,2
+177,AMIENS,Chirurgie vasculaire,1
+178,CLERMONT-FERRAND,Chirurgie vasculaire,1
+179,GRENOBLE,Chirurgie vasculaire,1
+180,HCL,Chirurgie vasculaire,2
+181,SAINT ETIENNE,Chirurgie vasculaire,1
+182,BREST,Chirurgie vasculaire,0
+183,RENNES,Chirurgie vasculaire,1
+184,ANGERS,Chirurgie vasculaire,1
+185,NANTES,Chirurgie vasculaire,1
+186,TOURS,Chirurgie vasculaire,0
+187,POITIERS,Chirurgie vasculaire,1
+188,MONTPELLIER,Chirurgie vasculaire,1
+189,AP-HM,Chirurgie vasculaire,1
+190,NICE,Chirurgie vasculaire,1
+191,BORDEAUX,Chirurgie vasculaire,1
+192, LA REUNION,Chirurgie vasculaire,0
+193,TOULOUSE,Chirurgie vasculaire,1
+194,LIMOGES,Chirurgie vasculaire,1
+195,MARTINIQUE/POINTE A PITRE,Chirurgie vasculaire,0
+196,AP-HP,Chirurgie viscérale et digestive,12
+197,STRASBOURG,Chirurgie viscérale et digestive,2
+198,NANCY,Chirurgie viscérale et digestive,3
+199,BESANCON,Chirurgie viscérale et digestive,2
+200,DIJON,Chirurgie viscérale et digestive,3
+201,REIMS,Chirurgie viscérale et digestive,3
+202,CAEN,Chirurgie viscérale et digestive,2
+203,ROUEN,Chirurgie viscérale et digestive,3
+204,LILLE,Chirurgie viscérale et digestive,7
+205,AMIENS,Chirurgie viscérale et digestive,2
+206,CLERMONT-FERRAND,Chirurgie viscérale et digestive,2
+207,GRENOBLE,Chirurgie viscérale et digestive,2
+208,HCL,Chirurgie viscérale et digestive,4
+209,SAINT ETIENNE,Chirurgie viscérale et digestive,1
+210,BREST,Chirurgie viscérale et digestive,2
+211,RENNES,Chirurgie viscérale et digestive,3
+212,ANGERS,Chirurgie viscérale et digestive,2
+213,NANTES,Chirurgie viscérale et digestive,3
+214,TOURS,Chirurgie viscérale et digestive,6
+215,POITIERS,Chirurgie viscérale et digestive,2
+216,MONTPELLIER,Chirurgie viscérale et digestive,4
+217,AP-HM,Chirurgie viscérale et digestive,4
+218,NICE,Chirurgie viscérale et digestive,1
+219,BORDEAUX,Chirurgie viscérale et digestive,4
+220, LA REUNION,Chirurgie viscérale et digestive,2
+221,TOULOUSE,Chirurgie viscérale et digestive,2
+222,LIMOGES,Chirurgie viscérale et digestive,2
+223,MARTINIQUE/POINTE A PITRE,Chirurgie viscérale et digestive,2
+224,AP-HP,Gynécologie obstétrique,44
+225,STRASBOURG,Gynécologie obstétrique,8
+226,NANCY,Gynécologie obstétrique,7
+227,BESANCON,Gynécologie obstétrique,6
+228,DIJON,Gynécologie obstétrique,7
+229,REIMS,Gynécologie obstétrique,6
+230,CAEN,Gynécologie obstétrique,6
+231,ROUEN,Gynécologie obstétrique,6
+232,LILLE,Gynécologie obstétrique,14
+233,AMIENS,Gynécologie obstétrique,6
+234,CLERMONT-FERRAND,Gynécologie obstétrique,6
+235,GRENOBLE,Gynécologie obstétrique,6
+236,HCL,Gynécologie obstétrique,12
+237,SAINT ETIENNE,Gynécologie obstétrique,5
+238,BREST,Gynécologie obstétrique,4
+239,RENNES,Gynécologie obstétrique,6
+240,ANGERS,Gynécologie obstétrique,5
+241,NANTES,Gynécologie obstétrique,6
+242,TOURS,Gynécologie obstétrique,6
+243,POITIERS,Gynécologie obstétrique,6
+244,MONTPELLIER,Gynécologie obstétrique,5
+245,AP-HM,Gynécologie obstétrique,8
+246,NICE,Gynécologie obstétrique,4
+247,BORDEAUX,Gynécologie obstétrique,10
+248, LA REUNION,Gynécologie obstétrique,5
+249,TOULOUSE,Gynécologie obstétrique,7
+250,LIMOGES,Gynécologie obstétrique,4
+251,MARTINIQUE/POINTE A PITRE,Gynécologie obstétrique,4
+252,AP-HP,Neurochirurgie,4
+253,STRASBOURG,Neurochirurgie,1
+254,NANCY,Neurochirurgie,1
+255,BESANCON,Neurochirurgie,1
+256,DIJON,Neurochirurgie,1
+257,REIMS,Neurochirurgie,0
+258,CAEN,Neurochirurgie,1
+259,ROUEN,Neurochirurgie,0
+260,LILLE,Neurochirurgie,1
+261,AMIENS,Neurochirurgie,0
+262,CLERMONT-FERRAND,Neurochirurgie,1
+263,GRENOBLE,Neurochirurgie,1
+264,HCL,Neurochirurgie,1
+265,SAINT ETIENNE,Neurochirurgie,1
+266,BREST,Neurochirurgie,1
+267,RENNES,Neurochirurgie,1
+268,ANGERS,Neurochirurgie,2
+269,NANTES,Neurochirurgie,1
+270,TOURS,Neurochirurgie,1
+271,POITIERS,Neurochirurgie,1
+272,MONTPELLIER,Neurochirurgie,1
+273,AP-HM,Neurochirurgie,1
+274,NICE,Neurochirurgie,1
+275,BORDEAUX,Neurochirurgie,1
+276, LA REUNION,Neurochirurgie,0
+277,TOULOUSE,Neurochirurgie,1
+278,LIMOGES,Neurochirurgie,0
+279,MARTINIQUE/POINTE A PITRE,Neurochirurgie,1
+280,AP-HP,Ophtalmologie,29
+281,STRASBOURG,Ophtalmologie,5
+282,NANCY,Ophtalmologie,6
+283,BESANCON,Ophtalmologie,3
+284,DIJON,Ophtalmologie,4
+285,REIMS,Ophtalmologie,3
+286,CAEN,Ophtalmologie,4
+287,ROUEN,Ophtalmologie,4
+288,LILLE,Ophtalmologie,10
+289,AMIENS,Ophtalmologie,4
+290,CLERMONT-FERRAND,Ophtalmologie,5
+291,GRENOBLE,Ophtalmologie,4
+292,HCL,Ophtalmologie,10
+293,SAINT ETIENNE,Ophtalmologie,6
+294,BREST,Ophtalmologie,3
+295,RENNES,Ophtalmologie,4
+296,ANGERS,Ophtalmologie,3
+297,NANTES,Ophtalmologie,4
+298,TOURS,Ophtalmologie,5
+299,POITIERS,Ophtalmologie,4
+300,MONTPELLIER,Ophtalmologie,5
+301,AP-HM,Ophtalmologie,7
+302,NICE,Ophtalmologie,3
+303,BORDEAUX,Ophtalmologie,8
+304, LA REUNION,Ophtalmologie,0
+305,TOULOUSE,Ophtalmologie,5
+306,LIMOGES,Ophtalmologie,3
+307,MARTINIQUE/POINTE A PITRE,Ophtalmologie,3
+308,AP-HP,Oto-rhino-laryngologie - chirurgie cervico-faciale,17
+309,STRASBOURG,Oto-rhino-laryngologie - chirurgie cervico-faciale,3
+310,NANCY,Oto-rhino-laryngologie - chirurgie cervico-faciale,4
+311,BESANCON,Oto-rhino-laryngologie - chirurgie cervico-faciale,2
+312,DIJON,Oto-rhino-laryngologie - chirurgie cervico-faciale,3
+313,REIMS,Oto-rhino-laryngologie - chirurgie cervico-faciale,2
+314,CAEN,Oto-rhino-laryngologie - chirurgie cervico-faciale,3
+315,ROUEN,Oto-rhino-laryngologie - chirurgie cervico-faciale,3
+316,LILLE,Oto-rhino-laryngologie - chirurgie cervico-faciale,5
+317,AMIENS,Oto-rhino-laryngologie - chirurgie cervico-faciale,2
+318,CLERMONT-FERRAND,Oto-rhino-laryngologie - chirurgie cervico-faciale,2
+319,GRENOBLE,Oto-rhino-laryngologie - chirurgie cervico-faciale,2
+320,HCL,Oto-rhino-laryngologie - chirurgie cervico-faciale,4
+321,SAINT ETIENNE,Oto-rhino-laryngologie - chirurgie cervico-faciale,1
+322,BREST,Oto-rhino-laryngologie - chirurgie cervico-faciale,3
+323,RENNES,Oto-rhino-laryngologie - chirurgie cervico-faciale,3
+324,ANGERS,Oto-rhino-laryngologie - chirurgie cervico-faciale,1
+325,NANTES,Oto-rhino-laryngologie - chirurgie cervico-faciale,2
+326,TOURS,Oto-rhino-laryngologie - chirurgie cervico-faciale,3
+327,POITIERS,Oto-rhino-laryngologie - chirurgie cervico-faciale,2
+328,MONTPELLIER,Oto-rhino-laryngologie - chirurgie cervico-faciale,3
+329,AP-HM,Oto-rhino-laryngologie - chirurgie cervico-faciale,3
+330,NICE,Oto-rhino-laryngologie - chirurgie cervico-faciale,1
+331,BORDEAUX,Oto-rhino-laryngologie - chirurgie cervico-faciale,4
+332, LA REUNION,Oto-rhino-laryngologie - chirurgie cervico-faciale,1
+333,TOULOUSE,Oto-rhino-laryngologie - chirurgie cervico-faciale,3
+334,LIMOGES,Oto-rhino-laryngologie - chirurgie cervico-faciale,2
+335,MARTINIQUE/POINTE A PITRE,Oto-rhino-laryngologie - chirurgie cervico-faciale,2
+336,AP-HP,Urologie,9
+337,STRASBOURG,Urologie,2
+338,NANCY,Urologie,3
+339,BESANCON,Urologie,2
+340,DIJON,Urologie,2
+341,REIMS,Urologie,2
+342,CAEN,Urologie,2
+343,ROUEN,Urologie,2
+344,LILLE,Urologie,4
+345,AMIENS,Urologie,2
+346,CLERMONT-FERRAND,Urologie,2
+347,GRENOBLE,Urologie,2
+348,HCL,Urologie,3
+349,SAINT ETIENNE,Urologie,1
+350,BREST,Urologie,1
+351,RENNES,Urologie,2
+352,ANGERS,Urologie,2
+353,NANTES,Urologie,2
+354,TOURS,Urologie,3
+355,POITIERS,Urologie,2
+356,MONTPELLIER,Urologie,2
+357,AP-HM,Urologie,2
+358,NICE,Urologie,1
+359,BORDEAUX,Urologie,3
+360, LA REUNION,Urologie,0
+361,TOULOUSE,Urologie,2
+362,LIMOGES,Urologie,1
+363,MARTINIQUE/POINTE A PITRE,Urologie,3
+364,AP-HP,Allergologie,3
+365,STRASBOURG,Allergologie,1
+366,NANCY,Allergologie,1
+367,BESANCON,Allergologie,1
+368,DIJON,Allergologie,1
+369,REIMS,Allergologie,1
+370,CAEN,Allergologie,1
+371,ROUEN,Allergologie,1
+372,LILLE,Allergologie,1
+373,AMIENS,Allergologie,0
+374,CLERMONT-FERRAND,Allergologie,1
+375,GRENOBLE,Allergologie,1
+376,HCL,Allergologie,2
+377,SAINT ETIENNE,Allergologie,1
+378,BREST,Allergologie,1
+379,RENNES,Allergologie,1
+380,ANGERS,Allergologie,1
+381,NANTES,Allergologie,1
+382,TOURS,Allergologie,2
+383,POITIERS,Allergologie,1
+384,MONTPELLIER,Allergologie,1
+385,AP-HM,Allergologie,1
+386,NICE,Allergologie,1
+387,BORDEAUX,Allergologie,0
+388, LA REUNION,Allergologie,0
+389,TOULOUSE,Allergologie,1
+390,LIMOGES,Allergologie,1
+391,MARTINIQUE/POINTE A PITRE,Allergologie,0
+392,AP-HP,Anatomie et cytologie pathologiques,9
+393,STRASBOURG,Anatomie et cytologie pathologiques,1
+394,NANCY,Anatomie et cytologie pathologiques,2
+395,BESANCON,Anatomie et cytologie pathologiques,3
+396,DIJON,Anatomie et cytologie pathologiques,2
+397,REIMS,Anatomie et cytologie pathologiques,2
+398,CAEN,Anatomie et cytologie pathologiques,2
+399,ROUEN,Anatomie et cytologie pathologiques,2
+400,LILLE,Anatomie et cytologie pathologiques,3
+401,AMIENS,Anatomie et cytologie pathologiques,2
+402,CLERMONT-FERRAND,Anatomie et cytologie pathologiques,2
+403,GRENOBLE,Anatomie et cytologie pathologiques,2
+404,HCL,Anatomie et cytologie pathologiques,3
+405,SAINT ETIENNE,Anatomie et cytologie pathologiques,1
+406,BREST,Anatomie et cytologie pathologiques,2
+407,RENNES,Anatomie et cytologie pathologiques,1
+408,ANGERS,Anatomie et cytologie pathologiques,2
+409,NANTES,Anatomie et cytologie pathologiques,1
+410,TOURS,Anatomie et cytologie pathologiques,2
+411,POITIERS,Anatomie et cytologie pathologiques,1
+412,MONTPELLIER,Anatomie et cytologie pathologiques,3
+413,AP-HM,Anatomie et cytologie pathologiques,2
+414,NICE,Anatomie et cytologie pathologiques,1
+415,BORDEAUX,Anatomie et cytologie pathologiques,3
+416, LA REUNION,Anatomie et cytologie pathologiques,0
+417,TOULOUSE,Anatomie et cytologie pathologiques,2
+418,LIMOGES,Anatomie et cytologie pathologiques,1
+419,MARTINIQUE/POINTE A PITRE,Anatomie et cytologie pathologiques,2
+420,AP-HP,Anesthésie-réanimation,91
+421,STRASBOURG,Anesthésie-réanimation,17
+422,NANCY,Anesthésie-réanimation,15
+423,BESANCON,Anesthésie-réanimation,12
+424,DIJON,Anesthésie-réanimation,14
+425,REIMS,Anesthésie-réanimation,13
+426,CAEN,Anesthésie-réanimation,16
+427,ROUEN,Anesthésie-réanimation,17
+428,LILLE,Anesthésie-réanimation,30
+429,AMIENS,Anesthésie-réanimation,12
+430,CLERMONT-FERRAND,Anesthésie-réanimation,14
+431,GRENOBLE,Anesthésie-réanimation,12
+432,HCL,Anesthésie-réanimation,23
+433,SAINT ETIENNE,Anesthésie-réanimation,9
+434,BREST,Anesthésie-réanimation,9
+435,RENNES,Anesthésie-réanimation,15
+436,ANGERS,Anesthésie-réanimation,14
+437,NANTES,Anesthésie-réanimation,16
+438,TOURS,Anesthésie-réanimation,16
+439,POITIERS,Anesthésie-réanimation,12
+440,MONTPELLIER,Anesthésie-réanimation,20
+441,AP-HM,Anesthésie-réanimation,22
+442,NICE,Anesthésie-réanimation,9
+443,BORDEAUX,Anesthésie-réanimation,20
+444, LA REUNION,Anesthésie-réanimation,5
+445,TOULOUSE,Anesthésie-réanimation,22
+446,LIMOGES,Anesthésie-réanimation,9
+447,MARTINIQUE/POINTE A PITRE,Anesthésie-réanimation,8
+448,AP-HP,Dermatologie et vénéréologie,14
+449,STRASBOURG,Dermatologie et vénéréologie,3
+450,NANCY,Dermatologie et vénéréologie,5
+451,BESANCON,Dermatologie et vénéréologie,2
+452,DIJON,Dermatologie et vénéréologie,4
+453,REIMS,Dermatologie et vénéréologie,2
+454,CAEN,Dermatologie et vénéréologie,3
+455,ROUEN,Dermatologie et vénéréologie,4
+456,LILLE,Dermatologie et vénéréologie,6
+457,AMIENS,Dermatologie et vénéréologie,3
+458,CLERMONT-FERRAND,Dermatologie et vénéréologie,3
+459,GRENOBLE,Dermatologie et vénéréologie,3
+460,HCL,Dermatologie et vénéréologie,4
+461,SAINT ETIENNE,Dermatologie et vénéréologie,3
+462,BREST,Dermatologie et vénéréologie,4
+463,RENNES,Dermatologie et vénéréologie,4
+464,ANGERS,Dermatologie et vénéréologie,3
+465,NANTES,Dermatologie et vénéréologie,3
+466,TOURS,Dermatologie et vénéréologie,5
+467,POITIERS,Dermatologie et vénéréologie,4
+468,MONTPELLIER,Dermatologie et vénéréologie,4
+469,AP-HM,Dermatologie et vénéréologie,4
+470,NICE,Dermatologie et vénéréologie,1
+471,BORDEAUX,Dermatologie et vénéréologie,4
+472, LA REUNION,Dermatologie et vénéréologie,1
+473,TOULOUSE,Dermatologie et vénéréologie,3
+474,LIMOGES,Dermatologie et vénéréologie,2
+475,MARTINIQUE/POINTE A PITRE,Dermatologie et vénéréologie,2
+476,AP-HP,Endocrinologie-diabétologie-nutrition,12
+477,STRASBOURG,Endocrinologie-diabétologie-nutrition,2
+478,NANCY,Endocrinologie-diabétologie-nutrition,6
+479,BESANCON,Endocrinologie-diabétologie-nutrition,2
+480,DIJON,Endocrinologie-diabétologie-nutrition,3
+481,REIMS,Endocrinologie-diabétologie-nutrition,4
+482,CAEN,Endocrinologie-diabétologie-nutrition,3
+483,ROUEN,Endocrinologie-diabétologie-nutrition,3
+484,LILLE,Endocrinologie-diabétologie-nutrition,7
+485,AMIENS,Endocrinologie-diabétologie-nutrition,3
+486,CLERMONT-FERRAND,Endocrinologie-diabétologie-nutrition,3
+487,GRENOBLE,Endocrinologie-diabétologie-nutrition,3
+488,HCL,Endocrinologie-diabétologie-nutrition,4
+489,SAINT ETIENNE,Endocrinologie-diabétologie-nutrition,2
+490,BREST,Endocrinologie-diabétologie-nutrition,3
+491,RENNES,Endocrinologie-diabétologie-nutrition,3
+492,ANGERS,Endocrinologie-diabétologie-nutrition,2
+493,NANTES,Endocrinologie-diabétologie-nutrition,2
+494,TOURS,Endocrinologie-diabétologie-nutrition,2
+495,POITIERS,Endocrinologie-diabétologie-nutrition,2
+496,MONTPELLIER,Endocrinologie-diabétologie-nutrition,4
+497,AP-HM,Endocrinologie-diabétologie-nutrition,4
+498,NICE,Endocrinologie-diabétologie-nutrition,2
+499,BORDEAUX,Endocrinologie-diabétologie-nutrition,3
+500, LA REUNION,Endocrinologie-diabétologie-nutrition,2
+501,TOULOUSE,Endocrinologie-diabétologie-nutrition,4
+502,LIMOGES,Endocrinologie-diabétologie-nutrition,2
+503,MARTINIQUE/POINTE A PITRE,Endocrinologie-diabétologie-nutrition,2
+504,AP-HP,Génétique médicale,3
+505,STRASBOURG,Génétique médicale,1
+506,NANCY,Génétique médicale,1
+507,BESANCON,Génétique médicale,1
+508,DIJON,Génétique médicale,1
+509,REIMS,Génétique médicale,1
+510,CAEN,Génétique médicale,1
+511,ROUEN,Génétique médicale,0
+512,LILLE,Génétique médicale,0
+513,AMIENS,Génétique médicale,1
+514,CLERMONT-FERRAND,Génétique médicale,1
+515,GRENOBLE,Génétique médicale,1
+516,HCL,Génétique médicale,1
+517,SAINT ETIENNE,Génétique médicale,0
+518,BREST,Génétique médicale,1
+519,RENNES,Génétique médicale,0
+520,ANGERS,Génétique médicale,0
+521,NANTES,Génétique médicale,1
+522,TOURS,Génétique médicale,0
+523,POITIERS,Génétique médicale,0
+524,MONTPELLIER,Génétique médicale,1
+525,AP-HM,Génétique médicale,1
+526,NICE,Génétique médicale,0
+527,BORDEAUX,Génétique médicale,1
+528, LA REUNION,Génétique médicale,1
+529,TOULOUSE,Génétique médicale,1
+530,LIMOGES,Génétique médicale,0
+531,MARTINIQUE/POINTE A PITRE,Génétique médicale,1
+532,AP-HP,Gériatrie,44
+533,STRASBOURG,Gériatrie,6
+534,NANCY,Gériatrie,5
+535,BESANCON,Gériatrie,5
+536,DIJON,Gériatrie,7
+537,REIMS,Gériatrie,5
+538,CAEN,Gériatrie,5
+539,ROUEN,Gériatrie,6
+540,LILLE,Gériatrie,15
+541,AMIENS,Gériatrie,5
+542,CLERMONT-FERRAND,Gériatrie,3
+543,GRENOBLE,Gériatrie,5
+544,HCL,Gériatrie,10
+545,SAINT ETIENNE,Gériatrie,3
+546,BREST,Gériatrie,2
+547,RENNES,Gériatrie,5
+548,ANGERS,Gériatrie,4
+549,NANTES,Gériatrie,7
+550,TOURS,Gériatrie,5
+551,POITIERS,Gériatrie,4
+552,MONTPELLIER,Gériatrie,10
+553,AP-HM,Gériatrie,7
+554,NICE,Gériatrie,4
+555,BORDEAUX,Gériatrie,5
+556, LA REUNION,Gériatrie,1
+557,TOULOUSE,Gériatrie,8
+558,LIMOGES,Gériatrie,4
+559,MARTINIQUE/POINTE A PITRE,Gériatrie,4
+560,AP-HP,Gynécologie médicale,19
+561,STRASBOURG,Gynécologie médicale,1
+562,NANCY,Gynécologie médicale,4
+563,BESANCON,Gynécologie médicale,1
+564,DIJON,Gynécologie médicale,1
+565,REIMS,Gynécologie médicale,2
+566,CAEN,Gynécologie médicale,2
+567,ROUEN,Gynécologie médicale,3
+568,LILLE,Gynécologie médicale,6
+569,AMIENS,Gynécologie médicale,2
+570,CLERMONT-FERRAND,Gynécologie médicale,2
+571,GRENOBLE,Gynécologie médicale,2
+572,HCL,Gynécologie médicale,3
+573,SAINT ETIENNE,Gynécologie médicale,0
+574,BREST,Gynécologie médicale,2
+575,RENNES,Gynécologie médicale,3
+576,ANGERS,Gynécologie médicale,1
+577,NANTES,Gynécologie médicale,3
+578,TOURS,Gynécologie médicale,2
+579,POITIERS,Gynécologie médicale,2
+580,MONTPELLIER,Gynécologie médicale,3
+581,AP-HM,Gynécologie médicale,4
+582,NICE,Gynécologie médicale,1
+583,BORDEAUX,Gynécologie médicale,6
+584, LA REUNION,Gynécologie médicale,2
+585,TOULOUSE,Gynécologie médicale,5
+586,LIMOGES,Gynécologie médicale,2
+587,MARTINIQUE/POINTE A PITRE,Gynécologie médicale,3
+588,AP-HP,Hématologie,8
+589,STRASBOURG,Hématologie,1
+590,NANCY,Hématologie,2
+591,BESANCON,Hématologie,1
+592,DIJON,Hématologie,2
+593,REIMS,Hématologie,1
+594,CAEN,Hématologie,1
+595,ROUEN,Hématologie,2
+596,LILLE,Hématologie,4
+597,AMIENS,Hématologie,2
+598,CLERMONT-FERRAND,Hématologie,1
+599,GRENOBLE,Hématologie,1
+600,HCL,Hématologie,2
+601,SAINT ETIENNE,Hématologie,1
+602,BREST,Hématologie,1
+603,RENNES,Hématologie,1
+604,ANGERS,Hématologie,2
+605,NANTES,Hématologie,2
+606,TOURS,Hématologie,3
+607,POITIERS,Hématologie,1
+608,MONTPELLIER,Hématologie,2
+609,AP-HM,Hématologie,2
+610,NICE,Hématologie,1
+611,BORDEAUX,Hématologie,1
+612, LA REUNION,Hématologie,1
+613,TOULOUSE,Hématologie,1
+614,LIMOGES,Hématologie,1
+615,MARTINIQUE/POINTE A PITRE,Hématologie,1
+616,AP-HP,Hépato-gastro-entérologie,19
+617,STRASBOURG,Hépato-gastro-entérologie,4
+618,NANCY,Hépato-gastro-entérologie,6
+619,BESANCON,Hépato-gastro-entérologie,5
+620,DIJON,Hépato-gastro-entérologie,6
+621,REIMS,Hépato-gastro-entérologie,4
+622,CAEN,Hépato-gastro-entérologie,5
+623,ROUEN,Hépato-gastro-entérologie,6
+624,LILLE,Hépato-gastro-entérologie,8
+625,AMIENS,Hépato-gastro-entérologie,5
+626,CLERMONT-FERRAND,Hépato-gastro-entérologie,4
+627,GRENOBLE,Hépato-gastro-entérologie,5
+628,HCL,Hépato-gastro-entérologie,7
+629,SAINT ETIENNE,Hépato-gastro-entérologie,3
+630,BREST,Hépato-gastro-entérologie,3
+631,RENNES,Hépato-gastro-entérologie,3
+632,ANGERS,Hépato-gastro-entérologie,4
+633,NANTES,Hépato-gastro-entérologie,4
+634,TOURS,Hépato-gastro-entérologie,6
+635,POITIERS,Hépato-gastro-entérologie,4
+636,MONTPELLIER,Hépato-gastro-entérologie,4
+637,AP-HM,Hépato-gastro-entérologie,4
+638,NICE,Hépato-gastro-entérologie,2
+639,BORDEAUX,Hépato-gastro-entérologie,7
+640, LA REUNION,Hépato-gastro-entérologie,1
+641,TOULOUSE,Hépato-gastro-entérologie,4
+642,LIMOGES,Hépato-gastro-entérologie,3
+643,MARTINIQUE/POINTE A PITRE,Hépato-gastro-entérologie,2
+644,AP-HP,Maladies infectieuses et tropicales,9
+645,STRASBOURG,Maladies infectieuses et tropicales,1
+646,NANCY,Maladies infectieuses et tropicales,2
+647,BESANCON,Maladies infectieuses et tropicales,1
+648,DIJON,Maladies infectieuses et tropicales,2
+649,REIMS,Maladies infectieuses et tropicales,1
+650,CAEN,Maladies infectieuses et tropicales,1
+651,ROUEN,Maladies infectieuses et tropicales,2
+652,LILLE,Maladies infectieuses et tropicales,3
+653,AMIENS,Maladies infectieuses et tropicales,2
+654,CLERMONT-FERRAND,Maladies infectieuses et tropicales,1
+655,GRENOBLE,Maladies infectieuses et tropicales,1
+656,HCL,Maladies infectieuses et tropicales,3
+657,SAINT ETIENNE,Maladies infectieuses et tropicales,1
+658,BREST,Maladies infectieuses et tropicales,1
+659,RENNES,Maladies infectieuses et tropicales,1
+660,ANGERS,Maladies infectieuses et tropicales,1
+661,NANTES,Maladies infectieuses et tropicales,2
+662,TOURS,Maladies infectieuses et tropicales,2
+663,POITIERS,Maladies infectieuses et tropicales,2
+664,MONTPELLIER,Maladies infectieuses et tropicales,3
+665,AP-HM,Maladies infectieuses et tropicales,4
+666,NICE,Maladies infectieuses et tropicales,1
+667,BORDEAUX,Maladies infectieuses et tropicales,2
+668, LA REUNION,Maladies infectieuses et tropicales,1
+669,TOULOUSE,Maladies infectieuses et tropicales,2
+670,LIMOGES,Maladies infectieuses et tropicales,1
+671,MARTINIQUE/POINTE A PITRE,Maladies infectieuses et tropicales,3
+672,AP-HP,Médecine cardiovasculaire,34
+673,STRASBOURG,Médecine cardiovasculaire,5
+674,NANCY,Médecine cardiovasculaire,7
+675,BESANCON,Médecine cardiovasculaire,5
+676,DIJON,Médecine cardiovasculaire,5
+677,REIMS,Médecine cardiovasculaire,5
+678,CAEN,Médecine cardiovasculaire,7
+679,ROUEN,Médecine cardiovasculaire,6
+680,LILLE,Médecine cardiovasculaire,12
+681,AMIENS,Médecine cardiovasculaire,7
+682,CLERMONT-FERRAND,Médecine cardiovasculaire,6
+683,GRENOBLE,Médecine cardiovasculaire,5
+684,HCL,Médecine cardiovasculaire,8
+685,SAINT ETIENNE,Médecine cardiovasculaire,3
+686,BREST,Médecine cardiovasculaire,4
+687,RENNES,Médecine cardiovasculaire,7
+688,ANGERS,Médecine cardiovasculaire,6
+689,NANTES,Médecine cardiovasculaire,6
+690,TOURS,Médecine cardiovasculaire,8
+691,POITIERS,Médecine cardiovasculaire,6
+692,MONTPELLIER,Médecine cardiovasculaire,7
+693,AP-HM,Médecine cardiovasculaire,9
+694,NICE,Médecine cardiovasculaire,2
+695,BORDEAUX,Médecine cardiovasculaire,7
+696, LA REUNION,Médecine cardiovasculaire,2
+697,TOULOUSE,Médecine cardiovasculaire,8
+698,LIMOGES,Médecine cardiovasculaire,4
+699,MARTINIQUE/POINTE A PITRE,Médecine cardiovasculaire,2
+700,AP-HP,Médecine générale,491
+701,STRASBOURG,Médecine générale,119
+702,NANCY,Médecine générale,126
+703,BESANCON,Médecine générale,76
+704,DIJON,Médecine générale,90
+705,REIMS,Médecine générale,78
+706,CAEN,Médecine générale,87
+707,ROUEN,Médecine générale,117
+708,LILLE,Médecine générale,203
+709,AMIENS,Médecine générale,93
+710,CLERMONT-FERRAND,Médecine générale,76
+711,GRENOBLE,Médecine générale,106
+712,HCL,Médecine générale,134
+713,SAINT ETIENNE,Médecine générale,84
+714,BREST,Médecine générale,100
+715,RENNES,Médecine générale,104
+716,ANGERS,Médecine générale,115
+717,NANTES,Médecine générale,108
+718,TOURS,Médecine générale,120
+719,POITIERS,Médecine générale,108
+720,MONTPELLIER,Médecine générale,130
+721,AP-HM,Médecine générale,191
+722,NICE,Médecine générale,69
+723,BORDEAUX,Médecine générale,150
+724, LA REUNION,Médecine générale,71
+725,TOULOUSE,Médecine générale,140
+726,LIMOGES,Médecine générale,53
+727,MARTINIQUE/POINTE A PITRE,Médecine générale,49
+728,AP-HP,Médecine intensive-réanimation,17
+729,STRASBOURG,Médecine intensive-réanimation,4
+730,NANCY,Médecine intensive-réanimation,4
+731,BESANCON,Médecine intensive-réanimation,3
+732,DIJON,Médecine intensive-réanimation,3
+733,REIMS,Médecine intensive-réanimation,4
+734,CAEN,Médecine intensive-réanimation,2
+735,ROUEN,Médecine intensive-réanimation,3
+736,LILLE,Médecine intensive-réanimation,7
+737,AMIENS,Médecine intensive-réanimation,4
+738,CLERMONT-FERRAND,Médecine intensive-réanimation,3
+739,GRENOBLE,Médecine intensive-réanimation,2
+740,HCL,Médecine intensive-réanimation,3
+741,SAINT ETIENNE,Médecine intensive-réanimation,2
+742,BREST,Médecine intensive-réanimation,2
+743,RENNES,Médecine intensive-réanimation,3
+744,ANGERS,Médecine intensive-réanimation,3
+745,NANTES,Médecine intensive-réanimation,3
+746,TOURS,Médecine intensive-réanimation,5
+747,POITIERS,Médecine intensive-réanimation,3
+748,MONTPELLIER,Médecine intensive-réanimation,3
+749,AP-HM,Médecine intensive-réanimation,4
+750,NICE,Médecine intensive-réanimation,2
+751,BORDEAUX,Médecine intensive-réanimation,3
+752, LA REUNION,Médecine intensive-réanimation,1
+753,TOULOUSE,Médecine intensive-réanimation,4
+754,LIMOGES,Médecine intensive-réanimation,2
+755,MARTINIQUE/POINTE A PITRE,Médecine intensive-réanimation,2
+756,AP-HP,Médecine interne et immunologie clinique,31
+757,STRASBOURG,Médecine interne et immunologie clinique,5
+758,NANCY,Médecine interne et immunologie clinique,4
+759,BESANCON,Médecine interne et immunologie clinique,3
+760,DIJON,Médecine interne et immunologie clinique,4
+761,REIMS,Médecine interne et immunologie clinique,4
+762,CAEN,Médecine interne et immunologie clinique,4
+763,ROUEN,Médecine interne et immunologie clinique,4
+764,LILLE,Médecine interne et immunologie clinique,6
+765,AMIENS,Médecine interne et immunologie clinique,3
+766,CLERMONT-FERRAND,Médecine interne et immunologie clinique,5
+767,GRENOBLE,Médecine interne et immunologie clinique,3
+768,HCL,Médecine interne et immunologie clinique,6
+769,SAINT ETIENNE,Médecine interne et immunologie clinique,2
+770,BREST,Médecine interne et immunologie clinique,3
+771,RENNES,Médecine interne et immunologie clinique,3
+772,ANGERS,Médecine interne et immunologie clinique,3
+773,NANTES,Médecine interne et immunologie clinique,3
+774,TOURS,Médecine interne et immunologie clinique,5
+775,POITIERS,Médecine interne et immunologie clinique,4
+776,MONTPELLIER,Médecine interne et immunologie clinique,6
+777,AP-HM,Médecine interne et immunologie clinique,4
+778,NICE,Médecine interne et immunologie clinique,2
+779,BORDEAUX,Médecine interne et immunologie clinique,6
+780, LA REUNION,Médecine interne et immunologie clinique,2
+781,TOULOUSE,Médecine interne et immunologie clinique,4
+782,LIMOGES,Médecine interne et immunologie clinique,3
+783,MARTINIQUE/POINTE A PITRE,Médecine interne et immunologie clinique,2
+784,AP-HP,Médecine légale et expertises médicales,5
+785,STRASBOURG,Médecine légale et expertises médicales,1
+786,NANCY,Médecine légale et expertises médicales,1
+787,BESANCON,Médecine légale et expertises médicales,0
+788,DIJON,Médecine légale et expertises médicales,2
+789,REIMS,Médecine légale et expertises médicales,0
+790,CAEN,Médecine légale et expertises médicales,0
+791,ROUEN,Médecine légale et expertises médicales,1
+792,LILLE,Médecine légale et expertises médicales,1
+793,AMIENS,Médecine légale et expertises médicales,1
+794,CLERMONT-FERRAND,Médecine légale et expertises médicales,0
+795,GRENOBLE,Médecine légale et expertises médicales,1
+796,HCL,Médecine légale et expertises médicales,1
+797,SAINT ETIENNE,Médecine légale et expertises médicales,0
+798,BREST,Médecine légale et expertises médicales,0
+799,RENNES,Médecine légale et expertises médicales,1
+800,ANGERS,Médecine légale et expertises médicales,1
+801,NANTES,Médecine légale et expertises médicales,1
+802,TOURS,Médecine légale et expertises médicales,1
+803,POITIERS,Médecine légale et expertises médicales,1
+804,MONTPELLIER,Médecine légale et expertises médicales,1
+805,AP-HM,Médecine légale et expertises médicales,2
+806,NICE,Médecine légale et expertises médicales,0
+807,BORDEAUX,Médecine légale et expertises médicales,0
+808, LA REUNION,Médecine légale et expertises médicales,0
+809,TOULOUSE,Médecine légale et expertises médicales,1
+810,LIMOGES,Médecine légale et expertises médicales,1
+811,MARTINIQUE/POINTE A PITRE,Médecine légale et expertises médicales,2
+812,AP-HP,Médecine nucléaire,5
+813,STRASBOURG,Médecine nucléaire,1
+814,NANCY,Médecine nucléaire,2
+815,BESANCON,Médecine nucléaire,1
+816,DIJON,Médecine nucléaire,1
+817,REIMS,Médecine nucléaire,1
+818,CAEN,Médecine nucléaire,1
+819,ROUEN,Médecine nucléaire,1
+820,LILLE,Médecine nucléaire,2
+821,AMIENS,Médecine nucléaire,1
+822,CLERMONT-FERRAND,Médecine nucléaire,1
+823,GRENOBLE,Médecine nucléaire,1
+824,HCL,Médecine nucléaire,1
+825,SAINT ETIENNE,Médecine nucléaire,1
+826,BREST,Médecine nucléaire,1
+827,RENNES,Médecine nucléaire,1
+828,ANGERS,Médecine nucléaire,1
+829,NANTES,Médecine nucléaire,1
+830,TOURS,Médecine nucléaire,1
+831,POITIERS,Médecine nucléaire,1
+832,MONTPELLIER,Médecine nucléaire,1
+833,AP-HM,Médecine nucléaire,1
+834,NICE,Médecine nucléaire,1
+835,BORDEAUX,Médecine nucléaire,1
+836, LA REUNION,Médecine nucléaire,0
+837,TOULOUSE,Médecine nucléaire,1
+838,LIMOGES,Médecine nucléaire,1
+839,MARTINIQUE/POINTE A PITRE,Médecine nucléaire,1
+840,AP-HP,Médecine physique et de réadaptation,13
+841,STRASBOURG,Médecine physique et de réadaptation,3
+842,NANCY,Médecine physique et de réadaptation,5
+843,BESANCON,Médecine physique et de réadaptation,2
+844,DIJON,Médecine physique et de réadaptation,3
+845,REIMS,Médecine physique et de réadaptation,4
+846,CAEN,Médecine physique et de réadaptation,4
+847,ROUEN,Médecine physique et de réadaptation,5
+848,LILLE,Médecine physique et de réadaptation,8
+849,AMIENS,Médecine physique et de réadaptation,3
+850,CLERMONT-FERRAND,Médecine physique et de réadaptation,3
+851,GRENOBLE,Médecine physique et de réadaptation,2
+852,HCL,Médecine physique et de réadaptation,4
+853,SAINT ETIENNE,Médecine physique et de réadaptation,2
+854,BREST,Médecine physique et de réadaptation,3
+855,RENNES,Médecine physique et de réadaptation,2
+856,ANGERS,Médecine physique et de réadaptation,2
+857,NANTES,Médecine physique et de réadaptation,3
+858,TOURS,Médecine physique et de réadaptation,2
+859,POITIERS,Médecine physique et de réadaptation,2
+860,MONTPELLIER,Médecine physique et de réadaptation,7
+861,AP-HM,Médecine physique et de réadaptation,5
+862,NICE,Médecine physique et de réadaptation,2
+863,BORDEAUX,Médecine physique et de réadaptation,4
+864, LA REUNION,Médecine physique et de réadaptation,1
+865,TOULOUSE,Médecine physique et de réadaptation,4
+866,LIMOGES,Médecine physique et de réadaptation,2
+867,MARTINIQUE/POINTE A PITRE,Médecine physique et de réadaptation,3
+868,AP-HP,Médecine et santé au travail,21
+869,STRASBOURG,Médecine et santé au travail,5
+870,NANCY,Médecine et santé au travail,6
+871,BESANCON,Médecine et santé au travail,1
+872,DIJON,Médecine et santé au travail,1
+873,REIMS,Médecine et santé au travail,2
+874,CAEN,Médecine et santé au travail,3
+875,ROUEN,Médecine et santé au travail,4
+876,LILLE,Médecine et santé au travail,7
+877,AMIENS,Médecine et santé au travail,2
+878,CLERMONT-FERRAND,Médecine et santé au travail,4
+879,GRENOBLE,Médecine et santé au travail,4
+880,HCL,Médecine et santé au travail,8
+881,SAINT ETIENNE,Médecine et santé au travail,2
+882,BREST,Médecine et santé au travail,5
+883,RENNES,Médecine et santé au travail,5
+884,ANGERS,Médecine et santé au travail,4
+885,NANTES,Médecine et santé au travail,2
+886,TOURS,Médecine et santé au travail,0
+887,POITIERS,Médecine et santé au travail,1
+888,MONTPELLIER,Médecine et santé au travail,3
+889,AP-HM,Médecine et santé au travail,8
+890,NICE,Médecine et santé au travail,2
+891,BORDEAUX,Médecine et santé au travail,6
+892, LA REUNION,Médecine et santé au travail,0
+893,TOULOUSE,Médecine et santé au travail,6
+894,LIMOGES,Médecine et santé au travail,2
+895,MARTINIQUE/POINTE A PITRE,Médecine et santé au travail,2
+896,AP-HP,Médecine d’urgence,89
+897,STRASBOURG,Médecine d’urgence,13
+898,NANCY,Médecine d’urgence,14
+899,BESANCON,Médecine d’urgence,11
+900,DIJON,Médecine d’urgence,15
+901,REIMS,Médecine d’urgence,14
+902,CAEN,Médecine d’urgence,11
+903,ROUEN,Médecine d’urgence,12
+904,LILLE,Médecine d’urgence,24
+905,AMIENS,Médecine d’urgence,13
+906,CLERMONT-FERRAND,Médecine d’urgence,12
+907,GRENOBLE,Médecine d’urgence,13
+908,HCL,Médecine d’urgence,23
+909,SAINT ETIENNE,Médecine d’urgence,8
+910,BREST,Médecine d’urgence,9
+911,RENNES,Médecine d’urgence,14
+912,ANGERS,Médecine d’urgence,15
+913,NANTES,Médecine d’urgence,16
+914,TOURS,Médecine d’urgence,15
+915,POITIERS,Médecine d’urgence,17
+916,MONTPELLIER,Médecine d’urgence,23
+917,AP-HM,Médecine d’urgence,25
+918,NICE,Médecine d’urgence,10
+919,BORDEAUX,Médecine d’urgence,22
+920, LA REUNION,Médecine d’urgence,9
+921,TOULOUSE,Médecine d’urgence,24
+922,LIMOGES,Médecine d’urgence,7
+923,MARTINIQUE/POINTE A PITRE,Médecine d’urgence,5
+924,AP-HP,Médecine vasculaire,8
+925,STRASBOURG,Médecine vasculaire,2
+926,NANCY,Médecine vasculaire,2
+927,BESANCON,Médecine vasculaire,0
+928,DIJON,Médecine vasculaire,1
+929,REIMS,Médecine vasculaire,1
+930,CAEN,Médecine vasculaire,0
+931,ROUEN,Médecine vasculaire,2
+932,LILLE,Médecine vasculaire,2
+933,AMIENS,Médecine vasculaire,2
+934,CLERMONT-FERRAND,Médecine vasculaire,0
+935,GRENOBLE,Médecine vasculaire,2
+936,HCL,Médecine vasculaire,2
+937,SAINT ETIENNE,Médecine vasculaire,1
+938,BREST,Médecine vasculaire,2
+939,RENNES,Médecine vasculaire,2
+940,ANGERS,Médecine vasculaire,2
+941,NANTES,Médecine vasculaire,1
+942,TOURS,Médecine vasculaire,0
+943,POITIERS,Médecine vasculaire,1
+944,MONTPELLIER,Médecine vasculaire,3
+945,AP-HM,Médecine vasculaire,2
+946,NICE,Médecine vasculaire,1
+947,BORDEAUX,Médecine vasculaire,3
+948, LA REUNION,Médecine vasculaire,0
+949,TOULOUSE,Médecine vasculaire,3
+950,LIMOGES,Médecine vasculaire,2
+951,MARTINIQUE/POINTE A PITRE,Médecine vasculaire,1
+952,AP-HP,Néphrologie,12
+953,STRASBOURG,Néphrologie,3
+954,NANCY,Néphrologie,3
+955,BESANCON,Néphrologie,2
+956,DIJON,Néphrologie,2
+957,REIMS,Néphrologie,4
+958,CAEN,Néphrologie,2
+959,ROUEN,Néphrologie,3
+960,LILLE,Néphrologie,4
+961,AMIENS,Néphrologie,3
+962,CLERMONT-FERRAND,Néphrologie,2
+963,GRENOBLE,Néphrologie,2
+964,HCL,Néphrologie,4
+965,SAINT ETIENNE,Néphrologie,1
+966,BREST,Néphrologie,2
+967,RENNES,Néphrologie,2
+968,ANGERS,Néphrologie,3
+969,NANTES,Néphrologie,3
+970,TOURS,Néphrologie,4
+971,POITIERS,Néphrologie,2
+972,MONTPELLIER,Néphrologie,4
+973,AP-HM,Néphrologie,4
+974,NICE,Néphrologie,1
+975,BORDEAUX,Néphrologie,4
+976, LA REUNION,Néphrologie,2
+977,TOULOUSE,Néphrologie,4
+978,LIMOGES,Néphrologie,2
+979,MARTINIQUE/POINTE A PITRE,Néphrologie,2
+980,AP-HP,Neurologie,20
+981,STRASBOURG,Neurologie,4
+982,NANCY,Neurologie,5
+983,BESANCON,Neurologie,4
+984,DIJON,Neurologie,5
+985,REIMS,Neurologie,4
+986,CAEN,Neurologie,5
+987,ROUEN,Neurologie,5
+988,LILLE,Neurologie,7
+989,AMIENS,Neurologie,5
+990,CLERMONT-FERRAND,Neurologie,4
+991,GRENOBLE,Neurologie,3
+992,HCL,Neurologie,7
+993,SAINT ETIENNE,Neurologie,2
+994,BREST,Neurologie,3
+995,RENNES,Neurologie,3
+996,ANGERS,Neurologie,3
+997,NANTES,Neurologie,4
+998,TOURS,Neurologie,5
+999,POITIERS,Neurologie,5
+1000,MONTPELLIER,Neurologie,5
+1001,AP-HM,Neurologie,5
+1002,NICE,Neurologie,2
+1003,BORDEAUX,Neurologie,7
+1004, LA REUNION,Neurologie,2
+1005,TOULOUSE,Neurologie,6
+1006,LIMOGES,Neurologie,3
+1007,MARTINIQUE/POINTE A PITRE,Neurologie,2
+1008,AP-HP,Oncologie,22
+1009,STRASBOURG,Oncologie,5
+1010,NANCY,Oncologie,5
+1011,BESANCON,Oncologie,3
+1012,DIJON,Oncologie,4
+1013,REIMS,Oncologie,3
+1014,CAEN,Oncologie,4
+1015,ROUEN,Oncologie,4
+1016,LILLE,Oncologie,7
+1017,AMIENS,Oncologie,4
+1018,CLERMONT-FERRAND,Oncologie,4
+1019,GRENOBLE,Oncologie,2
+1020,HCL,Oncologie,7
+1021,SAINT ETIENNE,Oncologie,2
+1022,BREST,Oncologie,4
+1023,RENNES,Oncologie,3
+1024,ANGERS,Oncologie,2
+1025,NANTES,Oncologie,3
+1026,TOURS,Oncologie,5
+1027,POITIERS,Oncologie,4
+1028,MONTPELLIER,Oncologie,4
+1029,AP-HM,Oncologie,4
+1030,NICE,Oncologie,2
+1031,BORDEAUX,Oncologie,7
+1032, LA REUNION,Oncologie,2
+1033,TOULOUSE,Oncologie,4
+1034,LIMOGES,Oncologie,4
+1035,MARTINIQUE/POINTE A PITRE,Oncologie,2
+1036,AP-HP,Pédiatrie,83
+1037,STRASBOURG,Pédiatrie,10
+1038,NANCY,Pédiatrie,12
+1039,BESANCON,Pédiatrie,8
+1040,DIJON,Pédiatrie,8
+1041,REIMS,Pédiatrie,11
+1042,CAEN,Pédiatrie,10
+1043,ROUEN,Pédiatrie,10
+1044,LILLE,Pédiatrie,20
+1045,AMIENS,Pédiatrie,10
+1046,CLERMONT-FERRAND,Pédiatrie,9
+1047,GRENOBLE,Pédiatrie,9
+1048,HCL,Pédiatrie,18
+1049,SAINT ETIENNE,Pédiatrie,6
+1050,BREST,Pédiatrie,4
+1051,RENNES,Pédiatrie,7
+1052,ANGERS,Pédiatrie,8
+1053,NANTES,Pédiatrie,8
+1054,TOURS,Pédiatrie,11
+1055,POITIERS,Pédiatrie,8
+1056,MONTPELLIER,Pédiatrie,12
+1057,AP-HM,Pédiatrie,16
+1058,NICE,Pédiatrie,6
+1059,BORDEAUX,Pédiatrie,10
+1060, LA REUNION,Pédiatrie,6
+1061,TOULOUSE,Pédiatrie,11
+1062,LIMOGES,Pédiatrie,5
+1063,MARTINIQUE/POINTE A PITRE,Pédiatrie,6
+1064,AP-HP,Pneumologie,19
+1065,STRASBOURG,Pneumologie,5
+1066,NANCY,Pneumologie,6
+1067,BESANCON,Pneumologie,4
+1068,DIJON,Pneumologie,5
+1069,REIMS,Pneumologie,4
+1070,CAEN,Pneumologie,5
+1071,ROUEN,Pneumologie,6
+1072,LILLE,Pneumologie,7
+1073,AMIENS,Pneumologie,4
+1074,CLERMONT-FERRAND,Pneumologie,4
+1075,GRENOBLE,Pneumologie,3
+1076,HCL,Pneumologie,6
+1077,SAINT ETIENNE,Pneumologie,3
+1078,BREST,Pneumologie,3
+1079,RENNES,Pneumologie,4
+1080,ANGERS,Pneumologie,3
+1081,NANTES,Pneumologie,4
+1082,TOURS,Pneumologie,5
+1083,POITIERS,Pneumologie,4
+1084,MONTPELLIER,Pneumologie,3
+1085,AP-HM,Pneumologie,5
+1086,NICE,Pneumologie,3
+1087,BORDEAUX,Pneumologie,4
+1088, LA REUNION,Pneumologie,2
+1089,TOULOUSE,Pneumologie,4
+1090,LIMOGES,Pneumologie,3
+1091,MARTINIQUE/POINTE A PITRE,Pneumologie,2
+1092,AP-HP,Psychiatrie,99
+1093,STRASBOURG,Psychiatrie,17
+1094,NANCY,Psychiatrie,20
+1095,BESANCON,Psychiatrie,15
+1096,DIJON,Psychiatrie,17
+1097,REIMS,Psychiatrie,10
+1098,CAEN,Psychiatrie,13
+1099,ROUEN,Psychiatrie,18
+1100,LILLE,Psychiatrie,40
+1101,AMIENS,Psychiatrie,12
+1102,CLERMONT-FERRAND,Psychiatrie,17
+1103,GRENOBLE,Psychiatrie,13
+1104,HCL,Psychiatrie,26
+1105,SAINT ETIENNE,Psychiatrie,10
+1106,BREST,Psychiatrie,12
+1107,RENNES,Psychiatrie,13
+1108,ANGERS,Psychiatrie,14
+1109,NANTES,Psychiatrie,16
+1110,TOURS,Psychiatrie,13
+1111,POITIERS,Psychiatrie,17
+1112,MONTPELLIER,Psychiatrie,16
+1113,AP-HM,Psychiatrie,25
+1114,NICE,Psychiatrie,11
+1115,BORDEAUX,Psychiatrie,22
+1116, LA REUNION,Psychiatrie,6
+1117,TOULOUSE,Psychiatrie,24
+1118,LIMOGES,Psychiatrie,9
+1119,MARTINIQUE/POINTE A PITRE,Psychiatrie,9
+1120,AP-HP,Radiologie et imagerie médicale,45
+1121,STRASBOURG,Radiologie et imagerie médicale,9
+1122,NANCY,Radiologie et imagerie médicale,12
+1123,BESANCON,Radiologie et imagerie médicale,6
+1124,DIJON,Radiologie et imagerie médicale,7
+1125,REIMS,Radiologie et imagerie médicale,8
+1126,CAEN,Radiologie et imagerie médicale,7
+1127,ROUEN,Radiologie et imagerie médicale,8
+1128,LILLE,Radiologie et imagerie médicale,19
+1129,AMIENS,Radiologie et imagerie médicale,9
+1130,CLERMONT-FERRAND,Radiologie et imagerie médicale,9
+1131,GRENOBLE,Radiologie et imagerie médicale,5
+1132,HCL,Radiologie et imagerie médicale,14
+1133,SAINT ETIENNE,Radiologie et imagerie médicale,5
+1134,BREST,Radiologie et imagerie médicale,7
+1135,RENNES,Radiologie et imagerie médicale,8
+1136,ANGERS,Radiologie et imagerie médicale,6
+1137,NANTES,Radiologie et imagerie médicale,7
+1138,TOURS,Radiologie et imagerie médicale,11
+1139,POITIERS,Radiologie et imagerie médicale,7
+1140,MONTPELLIER,Radiologie et imagerie médicale,7
+1141,AP-HM,Radiologie et imagerie médicale,11
+1142,NICE,Radiologie et imagerie médicale,3
+1143,BORDEAUX,Radiologie et imagerie médicale,10
+1144, LA REUNION,Radiologie et imagerie médicale,3
+1145,TOULOUSE,Radiologie et imagerie médicale,10
+1146,LIMOGES,Radiologie et imagerie médicale,4
+1147,MARTINIQUE/POINTE A PITRE,Radiologie et imagerie médicale,3
+1148,AP-HP,Rhumatologie,12
+1149,STRASBOURG,Rhumatologie,2
+1150,NANCY,Rhumatologie,3
+1151,BESANCON,Rhumatologie,2
+1152,DIJON,Rhumatologie,3
+1153,REIMS,Rhumatologie,3
+1154,CAEN,Rhumatologie,3
+1155,ROUEN,Rhumatologie,3
+1156,LILLE,Rhumatologie,5
+1157,AMIENS,Rhumatologie,3
+1158,CLERMONT-FERRAND,Rhumatologie,2
+1159,GRENOBLE,Rhumatologie,2
+1160,HCL,Rhumatologie,4
+1161,SAINT ETIENNE,Rhumatologie,2
+1162,BREST,Rhumatologie,2
+1163,RENNES,Rhumatologie,3
+1164,ANGERS,Rhumatologie,2
+1165,NANTES,Rhumatologie,2
+1166,TOURS,Rhumatologie,4
+1167,POITIERS,Rhumatologie,3
+1168,MONTPELLIER,Rhumatologie,4
+1169,AP-HM,Rhumatologie,4
+1170,NICE,Rhumatologie,2
+1171,BORDEAUX,Rhumatologie,4
+1172, LA REUNION,Rhumatologie,1
+1173,TOULOUSE,Rhumatologie,4
+1174,LIMOGES,Rhumatologie,2
+1175,MARTINIQUE/POINTE A PITRE,Rhumatologie,2
+1176,AP-HP,Santé publique,15
+1177,STRASBOURG,Santé publique,3
+1178,NANCY,Santé publique,4
+1179,BESANCON,Santé publique,2
+1180,DIJON,Santé publique,3
+1181,REIMS,Santé publique,2
+1182,CAEN,Santé publique,2
+1183,ROUEN,Santé publique,3
+1184,LILLE,Santé publique,5
+1185,AMIENS,Santé publique,2
+1186,CLERMONT-FERRAND,Santé publique,2
+1187,GRENOBLE,Santé publique,2
+1188,HCL,Santé publique,5
+1189,SAINT ETIENNE,Santé publique,1
+1190,BREST,Santé publique,1
+1191,RENNES,Santé publique,2
+1192,ANGERS,Santé publique,2
+1193,NANTES,Santé publique,2
+1194,TOURS,Santé publique,2
+1195,POITIERS,Santé publique,2
+1196,MONTPELLIER,Santé publique,3
+1197,AP-HM,Santé publique,4
+1198,NICE,Santé publique,1
+1199,BORDEAUX,Santé publique,8
+1200, LA REUNION,Santé publique,2
+1201,TOULOUSE,Santé publique,3
+1202,LIMOGES,Santé publique,1
+1203,MARTINIQUE/POINTE A PITRE,Santé publique,3
+1204,AP-HP,Biologie médicale,18
+1205,STRASBOURG,Biologie médicale,4
+1206,NANCY,Biologie médicale,3
+1207,BESANCON,Biologie médicale,3
+1208,DIJON,Biologie médicale,4
+1209,REIMS,Biologie médicale,3
+1210,CAEN,Biologie médicale,2
+1211,ROUEN,Biologie médicale,4
+1212,LILLE,Biologie médicale,7
+1213,AMIENS,Biologie médicale,2
+1214,CLERMONT-FERRAND,Biologie médicale,3
+1215,GRENOBLE,Biologie médicale,2
+1216,HCL,Biologie médicale,6
+1217,SAINT ETIENNE,Biologie médicale,3
+1218,BREST,Biologie médicale,2
+1219,RENNES,Biologie médicale,3
+1220,ANGERS,Biologie médicale,3
+1221,NANTES,Biologie médicale,3
+1222,TOURS,Biologie médicale,2
+1223,POITIERS,Biologie médicale,3
+1224,MONTPELLIER,Biologie médicale,3
+1225,AP-HM,Biologie médicale,6
+1226,NICE,Biologie médicale,2
+1227,BORDEAUX,Biologie médicale,7
+1228, LA REUNION,Biologie médicale,1
+1229,TOULOUSE,Biologie médicale,4
+1230,LIMOGES,Biologie médicale,2
+1231,MARTINIQUE/POINTE A PITRE,Biologie médicale,2

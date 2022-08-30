@@ -1,0 +1,29 @@
+Amiens	Hauts-de-France	Abbeville, CHU Amiens-Picardie, Amiens CHAM, Beauvais, Clermont, Compiègne, Corbie, Creil, Doullins, Montdidier, Sophrologie Dinan, Senils, Saint-Quentin
+Angers	Pays de la Loire	Angers CHU, Angers CLCC ICO Paul Papin, Château Gontier, Cholet, Laval, Le Mans, Saumur
+Besançon	Bourgogne-Franche Comté	Besançon CHU Minjoz, Besançon Saint Jacques, Centre Hospitalier Général Louis Pasteur, Lons Le Saunier, Pontarlier, Trévenans, Vesoul
+Brest	Bretagne	Brest CHU la Cavale Blanche, Brest Morvan, Brest Bohars, Carhaix, Landerneau, Lannion, Morlaix, Quimper
+Caen	Normandie	Alençon, Alençon-Mamers, Argentan, Bayeux, Caen, Cherbourg, la Côte Fleurie, Falaise, Flers, Granville, Picauville, Pontorson, Saint-Lô, Vire
+Cayenne	Guyane / Antilles-Guyane	CH de Cayenne, Saint-Laurent-du-Maroni
+Clermont-Ferrand	Auvergne-Rhône Alpes	Ambert, Aurillac, Brioude, Centre Hospitalier Etienne Clementel, Clermont-Ferrand CHU Gabriel Montpied, Clermont-Ferrand Hôpital Estaing, Clermont-Ferrand Hôpital Nord, Issoire, Mauriac, Montluçon, Moulins, le Puy-en-Velay, Riom, Saint-Flour, Thiers, Vichy
+Dijon	Bourgogne-Franche Comté	Auxerre, Avallon, Beaune, Chalon-sur-Saône, Châtillon, la Charté-sur-Loire, le Creusot, Dijon, Mâcon, Montbard, Montceau-les-Mines, Nevers Hôpital Colbert, Paray-le-Monial, Semur-en-Auxois, Sens
+Fort de France	Martinique / Antilles-Guyane	CHU La Meynard de Fort de France, CH Mangot Vulcin, CHU Martinique, CH Trinité
+Grenoble	Auvergne-Rhône Alpes	Annecy, Chambéry, Echirolles, Grenoble Hôpital de la Tronche, Grenoble Hôpital Couple-Enfant, Sallanches, Thonon, Voiron
+Lille	Hauts-de-France	Armentières (CHG), Arras, Bailleul (CHS), Béthune, Berck-sur-Mer (Hôpital maritime), Boulogne-sur-Mer, Calais, Cambrai, Denain, Douai, Dunkerque, Hénin-Beaumont, Centre Hospitalier de Lens, Lille CHRU, Lille Hôpital Saint Vincent, Lomme (Hôpital Saint Philibert), Roubaix, Seclin, Tourcoing, Valenciennes
+Limoges	Nouvelle Aquitaine	Brive, Guéret, Limoges (CHU Dupuytren), Saint-Junien, Sainte-Feyre Tulle, Ussel
+Lyon	Auvergne-Rhône Alpes	Francheville, Lyon CHU Hospices Civils de Lyon, Lyon Pierre Garaud, Lyon CHG Léon Bérard, Lyon Hôpital Saint-Luc-Saint-Joseph, Lyon Vinatier, Lyon Lozanne
+Mamoudzou	Mayotte / Océan Indien	Mamoudzou
+Marseille	Provence Alpes Côte d'Azur	Aix-en-Provence, Ajaccio, Arles, Avignon, Aubagne, Briançon, Brignoles, Hopital Gap, Manosque, Marseille la Timonne, Marseille IHU infectiologie, Marseille hôpital de la Conception, Marseille Hôpital Sainte Marguerite, Marseille Hôpital Nord, Marseille Institut Paoli-Calmettes, Martigues, Salon de Provence, Toulon
+Montpellier	Occitanie	Alès, Bagnols sur Cèze, le Grau du Roi, Mende, Millau, Montpellier (CHU), Narbonne, Nîmes (CHU), Perpignan, Uzès
+Nancy	Grand Est	Bar-le-Duc, Epinal, Forbach, Longwy, Lunéville, CHR Metz, Nancy Hôpital Central, Rue du Morvan Nancy, Nancy centre chirurgical Emile Gallé, Neufchâteau, Remiremont, Saint-Dié, Sarreguemines, Thionville, Toul, Verdun
+Nantes	Pays de la Loire	Nantes, La Roche-sur-Yon, Les Sables d'Olonne, Saint Nazaire
+Nice	Provence Alpes Côte d'Azur	Antibes, Bastia, Cannes, Fréjus, Grasse, Menton, Nice
+Pointe à Pitre	Guadeloupe / Antilles-Guyane	Hopital Pointe a pitre, CH Basse Terre, CH Saint Martin
+Poitiers	Nouvelle Aquitaine	Angoulême, Châtellerault, La Rochelle, Niort, Nord Deux-Sèvres, Poitiers (CHU), Rochefort, Royan, Saintes
+Reims	Grand Est	Brienne le Château, Châlons en Champagne, Charleville-Mézières, Chaumont, Epernay, Reims Hôpital Robert Debré, Reims Hôpital Maison-Blanche, Reims American Memorial Hospital, Reims Sebastopol, Romilly sur Seine, Saint-Dizier, Hopital Sedan, Troyes, Vitry le François
+Rennes	Bretagne	Hopital Dinan, Fougères, Lorient, Rennes CHU Pontchaillou, Rennes Hôpital Sud, Rennes CHS Guillaume Regnier, Ploërmel, Pontivy, Redon, Saint-Brieuc, Saint-Malo, Vannes
+Rouen	Normandie	Dieppe, Elbeuf, Evreux, Fécamp, Le Havre CHG, Le Havre Flaubert, Louviers, Pont-Audemer, Rouen CHU, Rouen centre Henri Becquerel, Rouen Belvédère, Rouen Bois-Guillaume, Rouen CRF les Herbiers, Hôpital de Saint Julien à Petit-Quevilly, Mont-Saint-Aignan , Vernon
+Saint-Denis (Réunion)	La Réunion / Océan Indien	Saint Benoît (GHER), Saint Denis (CHU Félix Guyon), CHU de St Pierre
+Saint-Etienne	Auvergne-Rhône Alpes	Annonay, Firminy, Feurs, Montbrison, Roanne, Saint-Chamond, Saint-Etienne CHU Hôpital Nord, Saint-Etienne la Charité, Saint-Etienne Hôpital Trousseau, Saint-Etienne Hôpital Bellevue
+Strasbourg	Grand Est	Brumath, Colmar, Erstein, Haguenau, Hoerdt, Mulhouse, Rouffach, Saverne, Sélestat, Strasbourg
+Toulouse	Occitanie	Albi, Auch, Cahors, Carcassonne, Castres, Foix-Pamiers, Montauban, Rangueil CHU Rangueil, Rangueil CHU Larray, Saint-Gaudens, Tarbes, Toulouse CHU Purpan, Toulouse Hôpital Paule de Viguier, Toulouse CHU psychiatrique, Toulouse hôpital des enfants, Toulouse Oncopole, Toulouse Hôpital J. Ducuing, Toulouse hopital psychiatrique G. Marchant
+Tours	Centre Val de Loire	Blois, Bourges, Chambray-lès-Tours (CHRU Trousseau), Chartres, Châteauroux, Chinon, Dreux, Orléans, Tours CHRU Bretonneau, Hopital Clocheville, Tours clinique psychiatrique universitaire, Tours Ermitage

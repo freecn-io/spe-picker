@@ -1,0 +1,299 @@
+,Ville,Région,Hopital,lattitude,longitude
+0,Amiens,Hauts-de-France,Abbeville,50.106084,1.833703
+1,Amiens,Hauts-de-France,CHU Amiens-Picardie,49.8724803,2.2536568
+2,Amiens,Hauts-de-France,Amiens CHAM,49.894067,2.295753
+3,Amiens,Hauts-de-France,Beauvais,49.42953869999999,2.0807123
+4,Amiens,Hauts-de-France,Clermont,49.37677750116383, 2.414224151543938
+5,Amiens,Hauts-de-France,Compiègne,49.41781599999999,2.826145
+6,Amiens,Hauts-de-France,Corbie,49.907676,2.511947
+7,Amiens,Hauts-de-France,Creil,49.2576872,2.4783913
+8,Amiens,Hauts-de-France,Doullins,50.157413,2.341069
+9,Amiens,Hauts-de-France,Montdidier,49.647007,2.566932
+10,Amiens,Hauts-de-France,Sophrologie Dinan,48.454366,-2.047327
+11,Amiens,Hauts-de-France,Senils,49.205164,2.583212
+12,Amiens,Hauts-de-France,Saint-Quentin,49.847066,3.2874
+13,Angers,Pays de la Loire,Angers CHU,47.4809661,-0.5546124
+14,Angers,Pays de la Loire,Angers CLCC ICO Paul Papin,47.48377230000001,-0.5551655999999999
+15,Angers,Pays de la Loire,Château Gontier,47.8267669,-0.7069
+16,Angers,Pays de la Loire,Cholet,47.059407,-0.879787
+17,Angers,Pays de la Loire,Laval,48.06385363198877, -0.7839620729034121
+18,Angers,Pays de la Loire,Le Mans,48.00611000000001,0.199556
+19,Angers,Pays de la Loire,Saumur,47.260135,-0.08089299999999999
+20,Besançon,Bourgogne-Franche Comté,Besançon CHU Minjoz,47.22504869999999,5.962735899999999
+21,Besançon,Bourgogne-Franche Comté,Besançon Saint Jacques,47.2337301,6.0196449
+22,Besançon,Bourgogne-Franche Comté,Centre Hospitalier Général Louis Pasteur,47.0836335,5.4726082
+23,Besançon,Bourgogne-Franche Comté,Lons Le Saunier,46.671361,5.550796
+24,Besançon,Bourgogne-Franche Comté,Pontarlier,46.9041039,6.354241999999999
+25,Besançon,Bourgogne-Franche Comté,Trévenans,47.566574,6.86816
+26,Besançon,Bourgogne-Franche Comté,Vesoul,47.61978800000001,6.15428
+27,Brest,Bretagne,Brest CHU la Cavale Blanche,48.402019,-4.5284184
+28,Brest,Bretagne,Brest Morvan,48.390394,-4.486076
+29,Brest,Bretagne,Brest Bohars,48.429264,-4.514481
+30,Brest,Bretagne,Carhaix,48.27558399999999,-3.574188
+31,Brest,Bretagne,Landerneau,48.450821,-4.248437
+32,Brest,Bretagne,Lannion,48.732084,-3.459144
+33,Brest,Bretagne,Morlaix,48.577613,-3.828228
+34,Brest,Bretagne,Quimper,47.997542,-4.097899
+35,Caen,Normandie,Alençon,48.432856,0.091266
+36,Caen,Normandie,Alençon-Mamers,48.432856,0.091266
+37,Caen,Normandie,Argentan,48.744001,-0.016566
+38,Caen,Normandie,Bayeux,49.27643699999999,-0.70314
+39,Caen,Normandie,Caen,49.182863,-0.370679
+40,Caen,Normandie,Cherbourg,49.6338979,-1.622224
+41,Caen,Normandie,la Côte Fleurie,49.3215322,0.0026356
+42,Caen,Normandie,Falaise,48.893548,-0.201956
+43,Caen,Normandie,Flers,48.750059,-0.5757940000000001
+44,Caen,Normandie,Granville,48.837579,-1.597302
+45,Caen,Normandie,Picauville,49.379026,-1.399977
+46,Caen,Normandie,Pontorson,48.553872,-1.509877
+47,Caen,Normandie,Saint-Lô,49.1154686,-1.0828136
+48,Caen,Normandie,Vire,48.837781,-0.888482
+49,Cayenne,Guyane / Antilles-Guyane,CH de Cayenne,4.9237913,-52.3205637
+50,Cayenne,Guyane / Antilles-Guyane,Saint-Laurent-du-Maroni,5.483880399999999,-54.0248906
+51,Clermont-Ferrand,Auvergne-Rhône Alpes,Ambert,45.549532,3.739308
+52,Clermont-Ferrand,Auvergne-Rhône Alpes,Aurillac,44.930953,2.444997
+53,Clermont-Ferrand,Auvergne-Rhône Alpes,Brioude,45.295564,3.386482
+54,Clermont-Ferrand,Auvergne-Rhône Alpes,Centre Hospitalier Etienne Clementel,45.9051319,3.0437708
+55,Clermont-Ferrand,Auvergne-Rhône Alpes,Clermont-Ferrand CHU Gabriel Montpied,45.7581893,3.0913535
+56,Clermont-Ferrand,Auvergne-Rhône Alpes,Clermont-Ferrand Hôpital Estaing,45.7855546,3.111202
+57,Clermont-Ferrand,Auvergne-Rhône Alpes,Clermont-Ferrand Hôpital Nord,45.77722199999999,3.087025
+58,Clermont-Ferrand,Auvergne-Rhône Alpes,Issoire,45.54151,3.248128
+59,Clermont-Ferrand,Auvergne-Rhône Alpes,Mauriac,45.2199787,2.3366114
+60,Clermont-Ferrand,Auvergne-Rhône Alpes,Montluçon,46.3415466,2.6019912
+61,Clermont-Ferrand,Auvergne-Rhône Alpes,Moulins,46.568059,3.334417
+62,Clermont-Ferrand,Auvergne-Rhône Alpes,le Puy-en-Velay,45.042768,3.882936
+63,Clermont-Ferrand,Auvergne-Rhône Alpes,Riom,45.8939949,3.114932
+64,Clermont-Ferrand,Auvergne-Rhône Alpes,Saint-Flour,45.033026,3.094862
+65,Clermont-Ferrand,Auvergne-Rhône Alpes,Thiers,45.857907,3.545177
+66,Clermont-Ferrand,Auvergne-Rhône Alpes,Vichy,46.131859,3.425488
+67,Dijon,Bourgogne-Franche Comté,Auxerre,47.798202,3.573781
+68,Dijon,Bourgogne-Franche Comté,Avallon,47.48822,3.907721999999999
+69,Dijon,Bourgogne-Franche Comté,Beaune,47.02603000000001,4.840004
+70,Dijon,Bourgogne-Franche Comté,Chalon-sur-Saône,46.780764,4.853947
+71,Dijon,Bourgogne-Franche Comté,Châtillon,47.8617385762689, 4.573970543670421
+72,Dijon,Bourgogne-Franche Comté,la Charté-sur-Loire,47.177091,3.018014
+73,Dijon,Bourgogne-Franche Comté,le Creusot,46.80535099999999,4.4278
+74,Dijon,Bourgogne-Franche Comté,Dijon,47.322047,5.04148
+75,Dijon,Bourgogne-Franche Comté,Mâcon,46.3068839,4.828730999999999
+76,Dijon,Bourgogne-Franche Comté,Montbard,47.624329,4.337495
+77,Dijon,Bourgogne-Franche Comté,Montceau-les-Mines,46.67413,4.362979
+78,Dijon,Bourgogne-Franche Comté,Nevers Hôpital Colbert,46.99469329999999,3.1597036
+79,Dijon,Bourgogne-Franche Comté,Paray-le-Monial,46.452222,4.120665
+80,Dijon,Bourgogne-Franche Comté,Semur-en-Auxois,47.490238,4.332339999999999
+81,Dijon,Bourgogne-Franche Comté,Sens,48.20065,3.28268
+82,Fort de France,Martinique / Antilles-Guyane,CHU La Meynard de Fort de France,14.6060576,-61.06988399999999
+83,Fort de France,Martinique / Antilles-Guyane,CH Mangot Vulcin,14.6291862,-60.9883372
+84,Fort de France,Martinique / Antilles-Guyane,CHU Martinique,14.641528,-61.024174
+85,Fort de France,Martinique / Antilles-Guyane,CH Trinité,14.7391661,-60.96313670000001
+86,Grenoble,Auvergne-Rhône Alpes,Annecy,45.899247,6.129384
+87,Grenoble,Auvergne-Rhône Alpes,Chambéry,45.564601,5.917781
+88,Grenoble,Auvergne-Rhône Alpes,Echirolles,45.142151,5.718033999999999
+89,Grenoble,Auvergne-Rhône Alpes,Grenoble Hôpital de la Tronche,45.2006355,5.741145599999999
+90,Grenoble,Auvergne-Rhône Alpes,Grenoble Hôpital Couple-Enfant,45.2016243,5.741778399999999
+91,Grenoble,Auvergne-Rhône Alpes,Sallanches,45.936661,6.630556899999999
+92,Grenoble,Auvergne-Rhône Alpes,Thonon,46.373565,6.477634999999999
+93,Grenoble,Auvergne-Rhône Alpes,Voiron,45.362713,5.591349
+94,Lille,Hauts-de-France,Armentières (CHG),50.691652,2.884218
+95,Lille,Hauts-de-France,Arras,50.291002,2.777535
+96,Lille,Hauts-de-France,Bailleul (CHS),50.736482,2.73559
+97,Lille,Hauts-de-France,Béthune,50.531036,2.63926
+98,Lille,Hauts-de-France,Berck-sur-Mer (Hôpital maritime),50.401538,1.560241
+99,Lille,Hauts-de-France,Boulogne-sur-Mer,50.725231,1.613334
+100,Lille,Hauts-de-France,Calais,50.95129000000001,1.858686
+101,Lille,Hauts-de-France,Cambrai,50.173538,3.236633
+102,Lille,Hauts-de-France,Denain,50.328225,3.397325
+103,Lille,Hauts-de-France,Douai,50.367874,3.080602
+104,Lille,Hauts-de-France,Dunkerque,51.0343684,2.3767763
+105,Lille,Hauts-de-France,Hénin-Beaumont,50.420087,2.94728
+106,Lille,Hauts-de-France,Centre Hospitalier de Lens,50.439091,2.8177668
+107,Lille,Hauts-de-France,Lille CHRU,50.6108999,3.0347031
+108,Lille,Hauts-de-France,Lille Hôpital Saint Vincent,50.62025999999999,3.0774594
+109,Lille,Hauts-de-France,Lomme (Hôpital Saint Philibert),50.6511197,2.9744001
+110,Lille,Hauts-de-France,Roubaix,50.6927049,3.177847
+111,Lille,Hauts-de-France,Seclin,50.54533199999999,3.026566
+112,Lille,Hauts-de-France,Tourcoing,50.724993,3.16207
+113,Lille,Hauts-de-France,Valenciennes,50.357113,3.518332
+114,Limoges,Nouvelle Aquitaine,Brive,45.159555,1.533937
+115,Limoges,Nouvelle Aquitaine,Guéret,46.16959900000001,1.871452
+116,Limoges,Nouvelle Aquitaine,Limoges (CHU Dupuytren),45.811741,1.235001
+117,Limoges,Nouvelle Aquitaine,Saint-Junien,45.88715999999999,0.9011650000000001
+118,Limoges,Nouvelle Aquitaine,Sainte-Feyre Tulle,46.13952099999999,1.91504
+119,Limoges,Nouvelle Aquitaine,Ussel,45.548905,2.313835
+120,Lyon,Auvergne-Rhône Alpes,Francheville,45.7297871,4.7438242
+121,Lyon,Auvergne-Rhône Alpes,Lyon CHU Hospices Civils de Lyon,45.764043,4.835659
+122,Lyon,Auvergne-Rhône Alpes,Lyon Pierre Garaud,45.7472679,4.7898114
+123,Lyon,Auvergne-Rhône Alpes,Lyon CHG Léon Bérard,45.7411939,4.8776062
+124,Lyon,Auvergne-Rhône Alpes,Lyon Hôpital Saint-Luc-Saint-Joseph,45.7500135,4.8356793
+125,Lyon,Auvergne-Rhône Alpes,Lyon Vinatier,45.7415046,4.8976815
+126,Lyon,Auvergne-Rhône Alpes,Lyon Lozanne,45.85504599999999,4.680507
+127,Mamoudzou,Mayotte / Océan Indien,Mamoudzou,-12.78064,45.23269639999999
+128,Marseille,Provence Alpes Côte d'Azur,Aix-en-Provence,43.529742,5.447426999999999
+129,Marseille,Provence Alpes Côte d'Azur,Ajaccio,41.919229,8.738635
+130,Marseille,Provence Alpes Côte d'Azur,Arles,43.676647,4.6277769
+131,Marseille,Provence Alpes Côte d'Azur,Avignon,43.94931700000001,4.805528
+132,Marseille,Provence Alpes Côte d'Azur,Aubagne,43.2926781,5.5676425
+133,Marseille,Provence Alpes Côte d'Azur,Briançon,44.899416,6.643179
+134,Marseille,Provence Alpes Côte d'Azur,Brignoles,43.40655,6.061186999999999
+135,Marseille,Provence Alpes Côte d'Azur,Hopital Gap,44.5570382,6.073562
+136,Marseille,Provence Alpes Côte d'Azur,Manosque,43.835744,5.790916
+137,Marseille,Provence Alpes Côte d'Azur,Marseille la Timonne,43.2877314,5.413799399999999
+138,Marseille,Provence Alpes Côte d'Azur,Marseille IHU infectiologie,43.296482,5.36978
+139,Marseille,Provence Alpes Côte d'Azur,Marseille hôpital de la Conception,43.2911143,5.395963200000001
+140,Marseille,Provence Alpes Côte d'Azur,Marseille Hôpital Sainte Marguerite,43.2594356,5.410056099999999
+141,Marseille,Provence Alpes Côte d'Azur,Marseille Hôpital Nord,43.3792205,5.3633321
+142,Marseille,Provence Alpes Côte d'Azur,Marseille Institut Paoli-Calmettes,43.2630412,5.410851699999999
+143,Marseille,Provence Alpes Côte d'Azur,Martigues,43.404811,5.053728
+144,Marseille,Provence Alpes Côte d'Azur,Salon de Provence,43.640199,5.097022
+145,Marseille,Provence Alpes Côte d'Azur,Toulon,43.124228,5.928
+146,Montpellier,Occitanie,Alès,44.127204,4.083352
+147,Montpellier,Occitanie,Bagnols sur Cèze,44.16252,4.620075
+148,Montpellier,Occitanie,le Grau du Roi,43.537476,4.137918
+149,Montpellier,Occitanie,Mende,44.517611,3.501873
+150,Montpellier,Occitanie,Millau,44.100575,3.077801
+151,Montpellier,Occitanie,Montpellier (CHU),43.6315886,3.8504425
+152,Montpellier,Occitanie,Narbonne,43.184277,3.003078
+153,Montpellier,Occitanie,Nîmes (CHU),43.8238818,4.3211256
+154,Montpellier,Occitanie,Perpignan,42.6886591,2.8948332
+155,Montpellier,Occitanie,Uzès,44.01211,4.419945999999999
+156,Nancy,Grand Est,Bar-le-Duc,48.773605,5.158238000000001
+157,Nancy,Grand Est,Epinal,48.172402,6.449403
+158,Nancy,Grand Est,Forbach,49.186515,6.895295000000001
+159,Nancy,Grand Est,Longwy,49.51991899999999,5.761773
+160,Nancy,Grand Est,Lunéville,48.592237,6.492338999999999
+161,Nancy,Grand Est,CHR Metz,49.3494114,6.156671999999999
+162,Nancy,Grand Est,Nancy Hôpital Central,48.68406419999999,6.1893877
+163,Nancy,Grand Est,Rue du Morvan Nancy,48.6489759,6.1534102
+164,Nancy,Grand Est,Nancy centre chirurgical Emile Gallé,48.698523,6.171626
+165,Nancy,Grand Est,Neufchâteau,48.354965,5.694596
+166,Nancy,Grand Est,Remiremont,48.015589,6.591716
+167,Nancy,Grand Est,Saint-Dié,48.2874679,6.947767
+168,Nancy,Grand Est,Sarreguemines,49.106031,7.070862
+169,Nancy,Grand Est,Thionville,49.357571,6.168425999999999
+170,Nancy,Grand Est,Toul,48.678296,5.890159
+171,Nancy,Grand Est,Verdun,49.15987639999999,5.3844231
+172,Nantes,Pays de la Loire,Nantes,47.218371,-1.553621
+173,Nantes,Pays de la Loire,La Roche-sur-Yon,46.670511,-1.426442
+174,Nantes,Pays de la Loire,Les Sables d'Olonne,46.49295799999999,-1.795493
+175,Nantes,Pays de la Loire,Saint Nazaire,47.2734979,-2.213848
+176,Nice,Provence Alpes Côte d'Azur,Antibes,43.58041799999999,7.125102
+177,Nice,Provence Alpes Côte d'Azur,Bastia,42.697283,9.450880999999999
+178,Nice,Provence Alpes Côte d'Azur,Cannes,43.552847,7.017369
+179,Nice,Provence Alpes Côte d'Azur,Fréjus,43.43315200000001,6.737034
+180,Nice,Provence Alpes Côte d'Azur,Grasse,43.660153,6.926492
+181,Nice,Provence Alpes Côte d'Azur,Menton,43.774481,7.497540000000001
+182,Nice,Provence Alpes Côte d'Azur,Nice,43.7101728,7.261953200000001
+183,Pointe à Pitre,Guadeloupe / Antilles-Guyane,Hopital Pointe a pitre,16.2370504,-61.53762719999999
+184,Pointe à Pitre,Guadeloupe / Antilles-Guyane,CH Basse Terre,16.0044898,-61.7300476
+185,Pointe à Pitre,Guadeloupe / Antilles-Guyane,CH Saint Martin,18.0708298,-63.0500809
+186,Poitiers,Nouvelle Aquitaine,Angoulême,45.648377,0.1562369
+187,Poitiers,Nouvelle Aquitaine,Châtellerault,46.816487,0.548146
+188,Poitiers,Nouvelle Aquitaine,La Rochelle,46.160329,-1.151139
+189,Poitiers,Nouvelle Aquitaine,Niort,46.323716,-0.4647769999999999
+190,Poitiers,Nouvelle Aquitaine,Nord Deux-Sèvres,46.5926541,-0.3962844
+191,Poitiers,Nouvelle Aquitaine,Poitiers (CHU),46.5568835,0.3829202
+192,Poitiers,Nouvelle Aquitaine,Rochefort,45.936698,-0.9616969999999999
+193,Poitiers,Nouvelle Aquitaine,Royan,45.623027,-1.043182
+194,Poitiers,Nouvelle Aquitaine,Saintes,45.744175,-0.633389
+195,Reims,Grand Est,Brienne le Château,48.393104,4.526154
+196,Reims,Grand Est,Châlons en Champagne,48.956682,4.363073
+197,Reims,Grand Est,Charleville-Mézières,49.76208500000001,4.726096
+198,Reims,Grand Est,Chaumont,48.113748,5.1392559
+199,Reims,Grand Est,Epernay,49.043411,3.956242
+200,Reims,Grand Est,Reims Hôpital Robert Debré,49.2274689,4.0186914
+201,Reims,Grand Est,Reims Hôpital Maison-Blanche,49.2296989,4.0188654
+202,Reims,Grand Est,Reims American Memorial Hospital,49.2300732,4.016530299999999
+203,Reims,Grand Est,Reims Sebastopol,49.2645054,4.0490246
+204,Reims,Grand Est,Romilly sur Seine,48.517732,3.726275
+205,Reims,Grand Est,Saint-Dizier,48.637692,4.947418
+206,Reims,Grand Est,Hopital Sedan,49.7051879,4.939751999999999
+207,Reims,Grand Est,Troyes,48.2973451,4.0744009
+208,Reims,Grand Est,Vitry le François,48.726087,4.585745
+209,Rennes,Bretagne,Hopital Dinan,48.44524149999999,-2.0459756
+210,Rennes,Bretagne,Fougères,48.3515609,-1.204626
+211,Rennes,Bretagne,Lorient,47.7482524,-3.3702449
+212,Rennes,Bretagne,Rennes CHU Pontchaillou,48.1209013,-1.6945449
+213,Rennes,Bretagne,Rennes Hôpital Sud,48.0837382,-1.6530919
+214,Rennes,Bretagne,Rennes CHS Guillaume Regnier,48.1131269,-1.6481406
+215,Rennes,Bretagne,Ploërmel,47.92925400000001,-2.396846
+216,Rennes,Bretagne,Pontivy,48.066152,-2.967056
+217,Rennes,Bretagne,Redon,47.650742,-2.083938
+218,Rennes,Bretagne,Saint-Brieuc,48.51418,-2.765835
+219,Rennes,Bretagne,Saint-Malo,48.649337,-2.025674
+220,Rennes,Bretagne,Vannes,47.658236,-2.760847
+221,Rouen,Normandie,Dieppe,49.922992,1.077483
+222,Rouen,Normandie,Elbeuf,49.292163,1.00691
+223,Rouen,Normandie,Evreux,49.0270129,1.151361
+224,Rouen,Normandie,Fécamp,49.755601,0.380774
+225,Rouen,Normandie,Le Havre CHG,49.49437,0.107929
+226,Rouen,Normandie,Le Havre Flaubert,49.49437,0.107929
+227,Rouen,Normandie,Louviers,49.2152477,1.1686123
+228,Rouen,Normandie,Pont-Audemer,49.354883,0.5142989
+229,Rouen,Normandie,Rouen CHU,49.4386196,1.1108685
+230,Rouen,Normandie,Rouen centre Henri Becquerel,49.439873,1.1053274
+231,Rouen,Normandie,Rouen Belvédère,49.44323199999999,1.099971
+232,Rouen,Normandie,Rouen Bois-Guillaume,49.4688521,1.1148305
+233,Rouen,Normandie,Rouen CRF les Herbiers,49.461029,1.1174561
+234,Rouen,Normandie,Hôpital de Saint Julien à Petit-Quevilly,49.419904,1.0565718
+235,Rouen,Normandie,Mont-Saint-Aignan ,49.459778,1.079798
+236,Rouen,Normandie,Vernon,49.0908622872919, 1.488144691953568
+237,Saint-Denis (Réunion),La Réunion / Océan Indien,Saint Benoît (GHER),-21.0581317,55.71008939999999
+238,Saint-Denis (Réunion),La Réunion / Océan Indien,Saint Denis (CHU Félix Guyon),-20.8910178,55.4440462
+239,Saint-Denis (Réunion),La Réunion / Océan Indien,CHU de St Pierre,-21.3463797,55.4932086
+240,Saint-Etienne,Auvergne-Rhône Alpes,Annonay,45.239403,4.667349
+241,Saint-Etienne,Auvergne-Rhône Alpes,Firminy,45.387638,4.287617
+242,Saint-Etienne,Auvergne-Rhône Alpes,Feurs,45.7436262,4.223236500000001
+243,Saint-Etienne,Auvergne-Rhône Alpes,Montbrison,45.60745,4.063338
+244,Saint-Etienne,Auvergne-Rhône Alpes,Roanne,46.034432,4.072695
+245,Saint-Etienne,Auvergne-Rhône Alpes,Saint-Chamond,45.476088,4.5127119
+246,Saint-Etienne,Auvergne-Rhône Alpes,Saint-Etienne CHU Hôpital Nord,45.4811729,4.3627747
+247,Saint-Etienne,Auvergne-Rhône Alpes,Saint-Etienne la Charité,45.4332261,4.3919732
+248,Saint-Etienne,Auvergne-Rhône Alpes,Saint-Etienne Hôpital Trousseau,45.439695,4.3871779
+249,Saint-Etienne,Auvergne-Rhône Alpes,Saint-Etienne Hôpital Bellevue,45.4126516,4.3917106
+250,Strasbourg,Grand Est,Brumath,48.730702,7.708784
+251,Strasbourg,Grand Est,Colmar,48.0793589,7.358511999999999
+252,Strasbourg,Grand Est,Erstein,48.42353,7.66326
+253,Strasbourg,Grand Est,Haguenau,48.813288,7.791250000000001
+254,Strasbourg,Grand Est,Hoerdt,48.698625,7.783878
+255,Strasbourg,Grand Est,Mulhouse,47.750839,7.335888
+256,Strasbourg,Grand Est,Rouffach,47.957064,7.299417
+257,Strasbourg,Grand Est,Saverne,48.741963,7.361647
+258,Strasbourg,Grand Est,Sélestat,48.259386,7.454241000000001
+259,Strasbourg,Grand Est,Strasbourg,48.5734053,7.752111299999999
+260,Toulouse,Occitanie,Albi,43.92550067170598, 2.143303355827309
+261,Toulouse,Occitanie,Auch,43.64638,0.5867089999999999
+262,Toulouse,Occitanie,Cahors,44.4475229,1.441989
+263,Toulouse,Occitanie,Carcassonne,43.2132151,2.3517703
+264,Toulouse,Occitanie,Castres,43.606214,2.241295
+265,Toulouse,Occitanie,Foix-Pamiers,42.964127,1.605232
+266,Toulouse,Occitanie,Montauban,44.0221252,1.3529599
+267,Toulouse,Occitanie,Rangueil CHU Rangueil,43.55831,1.45285
+268,Toulouse,Occitanie,Rangueil CHU Larray,43.5658462,1.4579696
+269,Toulouse,Occitanie,Saint-Gaudens,43.106895,0.7237629999999999
+270,Toulouse,Occitanie,Tarbes,43.23295100000001,0.078082
+271,Toulouse,Occitanie,Toulouse CHU Purpan,43.5995132,1.4364471
+272,Toulouse,Occitanie,Toulouse Hôpital Paule de Viguier,43.6085766,1.4030142
+273,Toulouse,Occitanie,Toulouse CHU psychiatrique,43.5995132,1.4364471
+274,Toulouse,Occitanie,Toulouse hôpital des enfants,43.6096865,1.4027864
+275,Toulouse,Occitanie,Toulouse Oncopole,43.5570806,1.4262186
+276,Toulouse,Occitanie,Toulouse Hôpital J. Ducuing,43.5965254,1.4297022
+277,Toulouse,Occitanie,Toulouse hopital psychiatrique G. Marchant,43.604652,1.444209
+278,Tours,Centre Val de Loire,Blois,47.58609209999999,1.3359475
+279,Tours,Centre Val de Loire,Bourges,47.081012,2.398782
+280,Tours,Centre Val de Loire,Chambray-lès-Tours (CHRU Trousseau),47.3499547,0.7115988
+281,Tours,Centre Val de Loire,Chartres,48.44385399999999,1.489012
+282,Tours,Centre Val de Loire,Châteauroux,46.811434,1.686779
+283,Tours,Centre Val de Loire,Chinon,47.167296,0.240385
+284,Tours,Centre Val de Loire,Dreux,48.736134,1.370889
+285,Tours,Centre Val de Loire,Orléans,47.902964,1.909251
+286,Tours,Centre Val de Loire,Tours CHRU Bretonneau,47.3873682,0.6693445
+287,Tours,Centre Val de Loire,Hopital Clocheville,47.389633,0.6803135
+288,Tours,Centre Val de Loire,Tours clinique psychiatrique universitaire,47.394144,0.68484
+289,Tours,Centre Val de Loire,Tours Ermitage,47.394144,0.68484
+289,Bordeaux,Nouvelle Aquitaine,Hopital des Enfants,44.8299544983916, -0.6050112539823542
+290,Bordeaux,Nouvelle Aquitaine,Hopital de Libourne,44.919604491130606, -0.2285324055566047
+291,Bordeaux,Nouvelle Aquitaine,Hopital de Mont de Marsan,43.89585330133433, -0.4857861415421629
+292,Bordeaux,Nouvelle Aquitaine,Hopital Agen,44.2170943093861, 0.6363518270005298
+293,Bordeaux,Nouvelle Aquitaine,Hopital Perigueux,45.19313535167517, 0.7307979590093281
+294,Bordeaux,Nouvelle Aquitaine,Hopital Dax,43.71201329603837, -1.03994641903891
+295,Bordeaux,Nouvelle Aquitaine,Hopital Bayonne,43.48483527536836, -1.4647379188378198
+296,Bordeaux,Nouvelle Aquitaine,Hopital,43.310358544037335, -0.3749806814532348
