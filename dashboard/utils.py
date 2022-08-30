@@ -4,6 +4,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
 import numpy as np
+from dash import dash_table
 
 def init_df():
     table_MN = pd.read_html('https://www.cngsante.fr/chiron/celine/listing.html')[0]
@@ -103,6 +104,7 @@ def get_map(fdf):
         font={"color":"white"},
         plot_bgcolor="rgba(0,0,0,0)",
         margin=dict(t=0,b=0,l=0,r=0),
+        showlegend=False,
         height=800)
     return rfig
 
@@ -111,6 +113,7 @@ def get_table(fdf):
     df = df[df.Reste!=0]
     rtable = go.Figure(data=[
     go.Table(
+        columnwidth=[130,150,50],
         header=dict(values=['Ville','Discipline','Reste'],
         fill_color="#7858A6"),
         cells=dict(values=df.values.transpose(),
@@ -120,7 +123,8 @@ def get_table(fdf):
     paper_bgcolor='rgba(0,0,0,0)',
     font={"color":"white"},
     plot_bgcolor="rgba(0,0,0,0)",
-    height=550,
+    height=815,
     margin=dict(t=20,l=20,r=20,b=20)
     )
+
     return rtable

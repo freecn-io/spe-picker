@@ -1,0 +1,18 @@
+
+#spe{
+   display:block;
+   align-items:center;
+   justify-content:space-around ;
+   flex-wrap: wrap;
+}
+h5 , div>p {
+    text-align: justify;
+}
+
+@media (min-width: 1200px){
+    #spe{
+       display:block; 
+       align-items:center;
+       justify-content:space-around ;
+    }
+}

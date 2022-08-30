@@ -1,3 +1,4 @@
+from turtle import width
 from unittest import result
 from dash import Dash, html, dcc, Input, Output, dash_table
 import plotly.express as px
@@ -17,54 +18,54 @@ app = Dash(__name__,external_stylesheets=[BS],server=server)
 result = init_df()
 filtered = filter_df(result,6000,result.Discipline.unique())
 fig = get_map(filtered)
-table_fig = get_table(filtered)
+
 
 graph = dcc.Graph(
             id='map',
             figure=fig,
             style={
-                "width":"100%",
                 "border-radius":"15px",
                 "padding":"20px",
-                "margin-bottom":"20px",
                 "background-color":"#4C3575"
                 }
         ) 
 
+table_fig = get_table(filtered)
 table_plot = dcc.Graph(
     id="table",
     figure= table_fig,
     style={
-                "width":"100%",
-                "border-radius":"15px",
-                "background-color":"#4C3575"
-                }
+        "border-radius":"15px",
+        "background-color":"#4C3575"
+        }
 )
 
 controls = dbc.Card(
     [
         html.Div(
             [
-                dbc.Label("Mon Classement"),
+                dbc.Label("Mon Classement",style={"margin-bottom":"10px","font-size":24}),
                 dcc.Input(id="rank", type="number", value=6000,style={"margin":"10px","width":"90%","border-radius":"10px","display":"block"}),
             ]
         ),
         html.Div(
             [
-                dbc.Label("Spécialité",style={"margin-bottom":"10px"}),
+                dbc.Label("Spécialité",style={"margin-bottom":"10px","font-size":24}),
                 dcc.Checklist(
                     id="spe",
                     options=[
-                        col for col in result["Discipline"].dropna().unique()
-                    ],
-                    style={"padding-left":"10px","display":"inline"},
-                    labelStyle={"display": "flex"},
+                        {
+                            "label":html.P(col, style={"margin":"10px","font-size":16}),
+                            "value":col
+                        }
+                        for col in result["Discipline"].dropna().unique()],
+                    style={},
+                    labelStyle={"display":"flex","margin-bottom":"-10px"},
                 ),
             ]
         )  
     ],
     style={
-        "width":"30%",
         "border-radius":"15px",
         "padding":"20px",
         "background-color":"#4C3575",
@@ -74,51 +75,51 @@ controls = dbc.Card(
 
 app.layout = html.Div(
     children=[
-        html.Div(
-            [
-                html.H1("Bienvenue sur Vite Ma Spé !",
-                style={"color":"white","text-align":"center"}),
-                html.H5(
-                    """Choisir sa spé c'est pas facile, j'espère que cet outil vous aidera ! Renseignez votre classement et
-                     selectionnez les spés qui vous intéresse. Si il reste des places elles seront indiquées sur la carte et dans
-                     le tableau. Vous pouvez zoomer et deplacer la carte ainsi que de passer votre souris pour plus d'informations sur la ville.
-                     Ces données sont normalement aussi a jour que celles sur le cng santé, qui est la source de données.
-                     C'est le dernier moment difficile de votre externat après ça à vous l'internat !""",
-                style={"color":"white","text-align":"center"}
-                ),
-                html.P(
-                    """Disclaimer : ceci est un outil fait avec les moyens du bord je ne suis en cas responsable si les données sont erronnées / absentes. 
-                    Les tests que j'ai fait au moment du developpement étaient concluant néanmoins gardez bien le site du cng à coté pour être sûr que les informations sont vraies""",
-                style={"color":"white","text-align":"center"}
+        dbc.Col([
+            dbc.Row(
+                dbc.Col(
+                    html.Div(
+                        [
+                            html.H1("Bienvenue sur Vite Ma Spé !",
+                            style={"color":"white","text-align":"center"}),
+                            html.H5(
+                                """Choisir sa spé c'est pas facile, j'espère que cet outil vous aidera ! Renseignez votre classement et
+                                   sélectionnez les spés qui vous intéressent. S'il reste des places elles seront indiquées sur la carte et
+                                   dans le tableau. Vous pouvez zoomer et déplacer la carte ainsi que de passer votre souris pour plus
+                                   d'informations sur la ville. Ces données sont normalement aussi à jour que celles sur le site du CNG Santé,
+                                   qui est la source de données. C'est le dernier moment difficile de votre externat après ça à vous l'internat !""",
+                            style={"color":"white"}
+                            ),
+                            html.P(
+                                """Disclaimer : ceci est un outil fait avec les moyens du bord je ne suis pas responsable si les données
+                                 sont erronées / absentes. Les tests que j'ai faits au moment du développement étaient concluants néanmoins 
+                                 gardez bien le site du CNG Santé à côté pour être sûr que les informations sont vraies""",
+                            style={"color":"white"}
+                            )
+                        ],
+                        style={
+                            "background-color":"#4C3575",
+                            "border-radius" : "10px",
+                            "padding":"20px",
+                        }
+                    ),style={"padding":"10px","padding-top":"20px"}
                 )
-            ],
-            style={
-                "background-color":"#4C3575",
-                "border-radius" : "10px",
-                "padding":"20px",
-                "margin-bottom":"20px"
+            ),
+            dbc.Row(
+                [
+                    dbc.Col(controls,width=12,xl=3,style={"padding":"10px"}),
+                    dbc.Col(
+                        dbc.Row([
+                            dbc.Col(graph,width=12,style={"padding":"10px"}),
+                            dbc.Col(table_plot,width=12,style={"padding":"10px"})
+                        ]),width=12,xl=9),
+                ]
+            )],
+        )],
+        style={
+            "background-color":"#371B58",
+            "padding-bottom":"10px"
             }
-        ),
-        html.Div(
-            [
-                controls,
-                html.Div([
-                    graph,
-                    table_plot
-            ],style={"width":"68%"})
-            ],
-            style={
-                "display":"flex",
-                "flex-direction":"row",
-                "align-items":"flex-start",
-                "justify-content":"space-between",
-                }
-        )
-    ],
-    style={
-        "background-color":"#371B58",
-        "padding":"20px"
-        }
 )
 
 
@@ -141,4 +142,4 @@ def onCursorChange(rank , spe):
     return rfig , rtable
 
 if __name__ == '__main__':
-    app.run_server(host='0.0.0.0')
+    app.run_server(host='0.0.0.0',debug=True)
