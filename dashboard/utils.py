@@ -1,10 +1,8 @@
-from itertools import groupby
 import json
 import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
 import numpy as np
-from dash import dash_table
 
 def init_df():
     table_MN = pd.read_html('https://www.cngsante.fr/chiron/celine/listing.html')[0]
