@@ -85,6 +85,11 @@ app.layout = html.Div(
                      Ces données sont normalement aussi a jour que celles sur le cng santé, qui est la source de données.
                      C'est le dernier moment difficile de votre externat après ça à vous l'internat !""",
                 style={"color":"white","text-align":"center"}
+                ),
+                html.P(
+                    """Disclaimer : ceci est un outil fait avec les moyens du bord je ne suis en cas responsable si les données sont erronnées / absentes. 
+                    Les tests que j'ai fait au moment du developpement étaient concluant néanmoins gardez bien le site du cng à coté pour être sûr que les informations sont vraies""",
+                style={"color":"white","text-align":"center"}
                 )
             ],
             style={
