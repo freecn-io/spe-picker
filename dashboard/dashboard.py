@@ -11,7 +11,9 @@ px.set_mapbox_access_token("pk.eyJ1IjoicWRlbGkiLCJhIjoiY2w0cHc0MzY4MGowNzNmbnY1a
 
 server = flask.Flask(__name__)
 
-app = Dash(__name__,external_stylesheets=[BS],server=server)
+app = Dash(__name__,external_stylesheets=[BS],external_scripts=["https://www.googletagmanager.com/gtag/js?id=G-ZZWD62FRD8"],server=server)
+
+app.title = "Vite ma Spé"
 
 result = init_df()
 filtered = filter_df(result,6000,result.Discipline.unique())
@@ -92,7 +94,7 @@ app.layout = html.Div(
                                 """Disclaimer : ceci est un outil fait avec les moyens du bord je ne suis pas responsable si les données
                                  sont erronées / absentes. Les tests que j'ai faits au moment du développement étaient concluants néanmoins 
                                  gardez bien le site du CNG Santé à côté pour être sûr que les informations sont vraies""",
-                            style={"color":"white"}
+                            style={"color":"white","font-size":16}
                             )
                         ],
                         style={
